@@ -1,0 +1,2101 @@
+Station,Hour,Bikes,Incoming,Outgoing
+Washington St,0,10,0,0
+Washington St,1,10,0,0
+Washington St,2,10,0,0
+Washington St,3,10,0,0
+Washington St,4,10,0,0
+Washington St,5,10,0,0
+Washington St,6,11,1,0
+Washington St,7,11,1,1
+Washington St,8,7,0,4
+Washington St,9,1,3,9
+Washington St,10,1,1,1
+Washington St,11,-1,1,3
+Washington St,12,-1,1,1
+Washington St,13,0,2,1
+Washington St,14,0,1,1
+Washington St,15,1,1,0
+Washington St,16,-1,1,3
+Washington St,17,1,2,0
+Washington St,18,9,9,1
+Washington St,19,12,6,3
+Washington St,20,12,3,3
+Washington St,21,13,2,1
+Washington St,22,14,2,1
+Washington St,23,14,0,0
+Washington St,24,14,0,0
+Hoboken Ave at Monmouth St,0,10,0,0
+Hoboken Ave at Monmouth St,1,10,0,0
+Hoboken Ave at Monmouth St,2,10,0,0
+Hoboken Ave at Monmouth St,3,10,0,0
+Hoboken Ave at Monmouth St,4,10,0,0
+Hoboken Ave at Monmouth St,5,10,0,0
+Hoboken Ave at Monmouth St,6,10,0,0
+Hoboken Ave at Monmouth St,7,11,1,0
+Hoboken Ave at Monmouth St,8,10,1,2
+Hoboken Ave at Monmouth St,9,5,0,5
+Hoboken Ave at Monmouth St,10,5,1,1
+Hoboken Ave at Monmouth St,11,6,3,2
+Hoboken Ave at Monmouth St,12,4,0,2
+Hoboken Ave at Monmouth St,13,6,2,0
+Hoboken Ave at Monmouth St,14,6,3,3
+Hoboken Ave at Monmouth St,15,7,1,0
+Hoboken Ave at Monmouth St,16,5,1,3
+Hoboken Ave at Monmouth St,17,4,1,2
+Hoboken Ave at Monmouth St,18,-1,2,7
+Hoboken Ave at Monmouth St,19,4,6,1
+Hoboken Ave at Monmouth St,20,2,1,3
+Hoboken Ave at Monmouth St,21,3,1,0
+Hoboken Ave at Monmouth St,22,3,0,0
+Hoboken Ave at Monmouth St,23,2,0,1
+Hoboken Ave at Monmouth St,24,2,0,0
+City Hall - Washington St & 1 St,0,10,0,0
+City Hall - Washington St & 1 St,1,10,0,0
+City Hall - Washington St & 1 St,2,10,0,0
+City Hall - Washington St & 1 St,3,10,0,0
+City Hall - Washington St & 1 St,4,10,0,0
+City Hall - Washington St & 1 St,5,11,1,0
+City Hall - Washington St & 1 St,6,11,0,0
+City Hall - Washington St & 1 St,7,10,1,2
+City Hall - Washington St & 1 St,8,5,1,6
+City Hall - Washington St & 1 St,9,4,5,6
+City Hall - Washington St & 1 St,10,3,0,1
+City Hall - Washington St & 1 St,11,4,1,0
+City Hall - Washington St & 1 St,12,2,0,2
+City Hall - Washington St & 1 St,13,2,1,1
+City Hall - Washington St & 1 St,14,4,2,0
+City Hall - Washington St & 1 St,15,6,2,0
+City Hall - Washington St & 1 St,16,7,1,0
+City Hall - Washington St & 1 St,17,6,0,1
+City Hall - Washington St & 1 St,18,6,3,3
+City Hall - Washington St & 1 St,19,11,7,2
+City Hall - Washington St & 1 St,20,12,5,4
+City Hall - Washington St & 1 St,21,12,3,3
+City Hall - Washington St & 1 St,22,12,1,1
+City Hall - Washington St & 1 St,23,12,1,1
+City Hall - Washington St & 1 St,24,12,0,0
+Newport Pkwy,0,10,0,0
+Newport Pkwy,1,10,1,1
+Newport Pkwy,2,10,0,0
+Newport Pkwy,3,10,0,0
+Newport Pkwy,4,10,0,0
+Newport Pkwy,5,10,0,0
+Newport Pkwy,6,10,0,0
+Newport Pkwy,7,8,0,2
+Newport Pkwy,8,10,3,1
+Newport Pkwy,9,6,0,4
+Newport Pkwy,10,6,2,2
+Newport Pkwy,11,7,1,0
+Newport Pkwy,12,8,1,0
+Newport Pkwy,13,8,0,0
+Newport Pkwy,14,8,2,2
+Newport Pkwy,15,8,2,2
+Newport Pkwy,16,9,2,1
+Newport Pkwy,17,8,3,4
+Newport Pkwy,18,12,7,3
+Newport Pkwy,19,11,4,5
+Newport Pkwy,20,11,2,2
+Newport Pkwy,21,9,0,2
+Newport Pkwy,22,13,6,2
+Newport Pkwy,23,10,1,4
+Newport Pkwy,24,10,0,0
+Manila & 1st,0,10,0,0
+Manila & 1st,1,10,0,0
+Manila & 1st,2,10,0,0
+Manila & 1st,3,10,0,0
+Manila & 1st,4,10,0,0
+Manila & 1st,5,10,0,0
+Manila & 1st,6,10,0,0
+Manila & 1st,7,10,0,0
+Manila & 1st,8,7,0,3
+Manila & 1st,9,7,3,3
+Manila & 1st,10,6,0,1
+Manila & 1st,11,6,0,0
+Manila & 1st,12,6,0,0
+Manila & 1st,13,6,0,0
+Manila & 1st,14,6,0,0
+Manila & 1st,15,6,1,1
+Manila & 1st,16,6,1,1
+Manila & 1st,17,5,0,1
+Manila & 1st,18,5,4,4
+Manila & 1st,19,8,5,2
+Manila & 1st,20,13,7,2
+Manila & 1st,21,15,3,1
+Manila & 1st,22,15,0,0
+Manila & 1st,23,15,1,1
+Manila & 1st,24,15,0,0
+9 St HBLR - Jackson St & 8 St,0,20,0,0
+9 St HBLR - Jackson St & 8 St,1,20,0,0
+9 St HBLR - Jackson St & 8 St,2,20,0,0
+9 St HBLR - Jackson St & 8 St,3,20,0,0
+9 St HBLR - Jackson St & 8 St,4,20,0,0
+9 St HBLR - Jackson St & 8 St,5,20,0,0
+9 St HBLR - Jackson St & 8 St,6,20,0,0
+9 St HBLR - Jackson St & 8 St,7,21,1,0
+9 St HBLR - Jackson St & 8 St,8,26,5,0
+9 St HBLR - Jackson St & 8 St,9,26,3,3
+9 St HBLR - Jackson St & 8 St,10,28,5,3
+9 St HBLR - Jackson St & 8 St,11,29,1,0
+9 St HBLR - Jackson St & 8 St,12,29,0,0
+9 St HBLR - Jackson St & 8 St,13,29,0,0
+9 St HBLR - Jackson St & 8 St,14,27,1,3
+9 St HBLR - Jackson St & 8 St,15,22,0,5
+9 St HBLR - Jackson St & 8 St,16,21,2,3
+9 St HBLR - Jackson St & 8 St,17,23,2,0
+9 St HBLR - Jackson St & 8 St,18,16,0,7
+9 St HBLR - Jackson St & 8 St,19,14,1,3
+9 St HBLR - Jackson St & 8 St,20,15,4,3
+9 St HBLR - Jackson St & 8 St,21,18,3,0
+9 St HBLR - Jackson St & 8 St,22,18,0,0
+9 St HBLR - Jackson St & 8 St,23,18,0,0
+9 St HBLR - Jackson St & 8 St,24,18,0,0
+Stevens - River Ter & 6 St,0,10,0,0
+Stevens - River Ter & 6 St,1,10,0,0
+Stevens - River Ter & 6 St,2,10,0,0
+Stevens - River Ter & 6 St,3,10,0,0
+Stevens - River Ter & 6 St,4,10,0,0
+Stevens - River Ter & 6 St,5,10,0,0
+Stevens - River Ter & 6 St,6,10,0,0
+Stevens - River Ter & 6 St,7,10,0,0
+Stevens - River Ter & 6 St,8,10,0,0
+Stevens - River Ter & 6 St,9,10,2,2
+Stevens - River Ter & 6 St,10,10,1,1
+Stevens - River Ter & 6 St,11,9,0,1
+Stevens - River Ter & 6 St,12,9,1,1
+Stevens - River Ter & 6 St,13,8,0,1
+Stevens - River Ter & 6 St,14,8,2,2
+Stevens - River Ter & 6 St,15,9,1,0
+Stevens - River Ter & 6 St,16,10,3,2
+Stevens - River Ter & 6 St,17,10,1,1
+Stevens - River Ter & 6 St,18,10,2,2
+Stevens - River Ter & 6 St,19,8,1,3
+Stevens - River Ter & 6 St,20,9,2,1
+Stevens - River Ter & 6 St,21,10,1,0
+Stevens - River Ter & 6 St,22,10,0,0
+Stevens - River Ter & 6 St,23,9,0,1
+Stevens - River Ter & 6 St,24,10,1,0
+Exchange Pl,0,10,0,0
+Exchange Pl,1,10,0,0
+Exchange Pl,2,10,0,0
+Exchange Pl,3,10,0,0
+Exchange Pl,4,10,0,0
+Exchange Pl,5,10,0,0
+Exchange Pl,6,8,0,2
+Exchange Pl,7,6,0,2
+Exchange Pl,8,1,0,5
+Exchange Pl,9,-5,0,6
+Exchange Pl,10,-6,1,2
+Exchange Pl,11,-7,0,1
+Exchange Pl,12,-8,1,2
+Exchange Pl,13,-4,4,0
+Exchange Pl,14,-7,0,3
+Exchange Pl,15,-6,3,2
+Exchange Pl,16,-6,2,2
+Exchange Pl,17,-3,5,2
+Exchange Pl,18,7,14,4
+Exchange Pl,19,10,9,6
+Exchange Pl,20,10,3,3
+Exchange Pl,21,10,1,1
+Exchange Pl,22,10,0,0
+Exchange Pl,23,10,0,0
+Exchange Pl,24,10,0,0
+Adams St & 2 St,0,10,0,0
+Adams St & 2 St,1,10,0,0
+Adams St & 2 St,2,10,0,0
+Adams St & 2 St,3,10,0,0
+Adams St & 2 St,4,10,0,0
+Adams St & 2 St,5,10,0,0
+Adams St & 2 St,6,11,1,0
+Adams St & 2 St,7,11,1,1
+Adams St & 2 St,8,12,3,2
+Adams St & 2 St,9,18,7,1
+Adams St & 2 St,10,18,0,0
+Adams St & 2 St,11,18,0,0
+Adams St & 2 St,12,18,0,0
+Adams St & 2 St,13,16,1,3
+Adams St & 2 St,14,14,0,2
+Adams St & 2 St,15,14,0,0
+Adams St & 2 St,16,13,0,1
+Adams St & 2 St,17,13,0,0
+Adams St & 2 St,18,10,0,3
+Adams St & 2 St,19,8,0,2
+Adams St & 2 St,20,7,2,3
+Adams St & 2 St,21,6,1,2
+Adams St & 2 St,22,6,0,0
+Adams St & 2 St,23,6,0,0
+Adams St & 2 St,24,5,0,1
+McGinley Square,0,10,0,0
+McGinley Square,1,10,0,0
+McGinley Square,2,11,1,0
+McGinley Square,3,11,0,0
+McGinley Square,4,11,0,0
+McGinley Square,5,11,0,0
+McGinley Square,6,11,0,0
+McGinley Square,7,11,0,0
+McGinley Square,8,11,0,0
+McGinley Square,9,14,4,1
+McGinley Square,10,15,1,0
+McGinley Square,11,15,0,0
+McGinley Square,12,17,3,1
+McGinley Square,13,17,0,0
+McGinley Square,14,16,0,1
+McGinley Square,15,16,1,1
+McGinley Square,16,16,0,0
+McGinley Square,17,16,2,2
+McGinley Square,18,15,0,1
+McGinley Square,19,14,0,1
+McGinley Square,20,14,1,1
+McGinley Square,21,14,1,1
+McGinley Square,22,14,0,0
+McGinley Square,23,16,2,0
+McGinley Square,24,16,0,0
+Communipaw & Berry Lane,0,10,0,0
+Communipaw & Berry Lane,1,10,0,0
+Communipaw & Berry Lane,2,10,0,0
+Communipaw & Berry Lane,3,10,0,0
+Communipaw & Berry Lane,4,10,0,0
+Communipaw & Berry Lane,5,10,0,0
+Communipaw & Berry Lane,6,10,0,0
+Communipaw & Berry Lane,7,10,0,0
+Communipaw & Berry Lane,8,10,0,0
+Communipaw & Berry Lane,9,10,0,0
+Communipaw & Berry Lane,10,10,0,0
+Communipaw & Berry Lane,11,11,2,1
+Communipaw & Berry Lane,12,11,0,0
+Communipaw & Berry Lane,13,11,0,0
+Communipaw & Berry Lane,14,11,0,0
+Communipaw & Berry Lane,15,11,0,0
+Communipaw & Berry Lane,16,11,0,0
+Communipaw & Berry Lane,17,11,0,0
+Communipaw & Berry Lane,18,11,2,2
+Communipaw & Berry Lane,19,11,0,0
+Communipaw & Berry Lane,20,11,0,0
+Communipaw & Berry Lane,21,11,0,0
+Communipaw & Berry Lane,22,11,0,0
+Communipaw & Berry Lane,23,11,0,0
+Communipaw & Berry Lane,24,11,0,0
+Jersey & 6th St,0,20,0,0
+Jersey & 6th St,1,20,0,0
+Jersey & 6th St,2,20,0,0
+Jersey & 6th St,3,20,0,0
+Jersey & 6th St,4,20,0,0
+Jersey & 6th St,5,20,0,0
+Jersey & 6th St,6,21,1,0
+Jersey & 6th St,7,22,1,0
+Jersey & 6th St,8,25,3,0
+Jersey & 6th St,9,30,5,0
+Jersey & 6th St,10,30,0,0
+Jersey & 6th St,11,30,0,0
+Jersey & 6th St,12,30,0,0
+Jersey & 6th St,13,30,0,0
+Jersey & 6th St,14,30,0,0
+Jersey & 6th St,15,29,0,1
+Jersey & 6th St,16,27,1,3
+Jersey & 6th St,17,29,2,0
+Jersey & 6th St,18,29,1,1
+Jersey & 6th St,19,23,1,7
+Jersey & 6th St,20,18,0,5
+Jersey & 6th St,21,18,2,2
+Jersey & 6th St,22,17,0,1
+Jersey & 6th St,23,17,0,0
+Jersey & 6th St,24,17,0,0
+Bloomfield St & 15 St,0,10,0,0
+Bloomfield St & 15 St,1,10,0,0
+Bloomfield St & 15 St,2,10,0,0
+Bloomfield St & 15 St,3,10,0,0
+Bloomfield St & 15 St,4,10,0,0
+Bloomfield St & 15 St,5,10,0,0
+Bloomfield St & 15 St,6,11,1,0
+Bloomfield St & 15 St,7,12,1,0
+Bloomfield St & 15 St,8,12,1,1
+Bloomfield St & 15 St,9,14,2,0
+Bloomfield St & 15 St,10,13,0,1
+Bloomfield St & 15 St,11,14,1,0
+Bloomfield St & 15 St,12,15,1,0
+Bloomfield St & 15 St,13,15,0,0
+Bloomfield St & 15 St,14,13,0,2
+Bloomfield St & 15 St,15,15,2,0
+Bloomfield St & 15 St,16,16,1,0
+Bloomfield St & 15 St,17,15,0,1
+Bloomfield St & 15 St,18,12,0,3
+Bloomfield St & 15 St,19,10,0,2
+Bloomfield St & 15 St,20,12,2,0
+Bloomfield St & 15 St,21,13,1,0
+Bloomfield St & 15 St,22,10,0,3
+Bloomfield St & 15 St,23,10,0,0
+Bloomfield St & 15 St,24,10,0,0
+Hamilton Park,0,20,0,0
+Hamilton Park,1,20,0,0
+Hamilton Park,2,20,0,0
+Hamilton Park,3,20,0,0
+Hamilton Park,4,20,0,0
+Hamilton Park,5,20,0,0
+Hamilton Park,6,19,0,1
+Hamilton Park,7,21,2,0
+Hamilton Park,8,27,7,1
+Hamilton Park,9,33,9,3
+Hamilton Park,10,36,4,1
+Hamilton Park,11,36,2,2
+Hamilton Park,12,35,2,3
+Hamilton Park,13,34,1,2
+Hamilton Park,14,37,3,0
+Hamilton Park,15,35,0,2
+Hamilton Park,16,37,4,2
+Hamilton Park,17,34,2,5
+Hamilton Park,18,33,5,6
+Hamilton Park,19,30,4,7
+Hamilton Park,20,27,1,4
+Hamilton Park,21,25,1,3
+Hamilton Park,22,24,1,2
+Hamilton Park,23,26,2,0
+Hamilton Park,24,25,0,1
+6 St & Grand St,0,10,0,0
+6 St & Grand St,1,10,0,0
+6 St & Grand St,2,10,0,0
+6 St & Grand St,3,10,0,0
+6 St & Grand St,4,10,0,0
+6 St & Grand St,5,10,0,0
+6 St & Grand St,6,10,0,0
+6 St & Grand St,7,11,1,0
+6 St & Grand St,8,11,1,1
+6 St & Grand St,9,13,3,1
+6 St & Grand St,10,13,1,1
+6 St & Grand St,11,14,1,0
+6 St & Grand St,12,14,1,1
+6 St & Grand St,13,14,1,1
+6 St & Grand St,14,16,2,0
+6 St & Grand St,15,16,1,1
+6 St & Grand St,16,15,1,2
+6 St & Grand St,17,15,2,2
+6 St & Grand St,18,16,2,1
+6 St & Grand St,19,10,3,9
+6 St & Grand St,20,7,0,3
+6 St & Grand St,21,8,1,0
+6 St & Grand St,22,7,0,1
+6 St & Grand St,23,7,0,0
+6 St & Grand St,24,7,0,0
+Brunswick & 6th,0,20,0,0
+Brunswick & 6th,1,21,1,0
+Brunswick & 6th,2,21,0,0
+Brunswick & 6th,3,21,0,0
+Brunswick & 6th,4,21,0,0
+Brunswick & 6th,5,21,0,0
+Brunswick & 6th,6,22,1,0
+Brunswick & 6th,7,22,0,0
+Brunswick & 6th,8,28,6,0
+Brunswick & 6th,9,31,3,0
+Brunswick & 6th,10,31,0,0
+Brunswick & 6th,11,30,0,1
+Brunswick & 6th,12,31,1,0
+Brunswick & 6th,13,31,0,0
+Brunswick & 6th,14,31,0,0
+Brunswick & 6th,15,29,0,2
+Brunswick & 6th,16,31,3,1
+Brunswick & 6th,17,31,0,0
+Brunswick & 6th,18,28,1,4
+Brunswick & 6th,19,28,0,0
+Brunswick & 6th,20,26,0,2
+Brunswick & 6th,21,26,1,1
+Brunswick & 6th,22,26,0,0
+Brunswick & 6th,23,27,1,0
+Brunswick & 6th,24,26,0,1
+Morris Canal,0,10,0,0
+Morris Canal,1,10,0,0
+Morris Canal,2,10,0,0
+Morris Canal,3,10,0,0
+Morris Canal,4,10,0,0
+Morris Canal,5,10,0,0
+Morris Canal,6,10,0,0
+Morris Canal,7,11,1,0
+Morris Canal,8,12,2,1
+Morris Canal,9,13,3,2
+Morris Canal,10,13,0,0
+Morris Canal,11,13,0,0
+Morris Canal,12,12,0,1
+Morris Canal,13,13,1,0
+Morris Canal,14,13,0,0
+Morris Canal,15,12,0,1
+Morris Canal,16,11,1,2
+Morris Canal,17,11,2,2
+Morris Canal,18,10,3,4
+Morris Canal,19,13,5,2
+Morris Canal,20,11,0,2
+Morris Canal,21,12,1,0
+Morris Canal,22,13,1,0
+Morris Canal,23,12,0,1
+Morris Canal,24,12,0,0
+Columbus Drive,0,10,0,0
+Columbus Drive,1,10,0,0
+Columbus Drive,2,8,0,2
+Columbus Drive,3,8,0,0
+Columbus Drive,4,8,0,0
+Columbus Drive,5,8,0,0
+Columbus Drive,6,8,0,0
+Columbus Drive,7,9,1,0
+Columbus Drive,8,8,1,2
+Columbus Drive,9,7,4,5
+Columbus Drive,10,4,1,4
+Columbus Drive,11,4,0,0
+Columbus Drive,12,6,2,0
+Columbus Drive,13,6,2,2
+Columbus Drive,14,6,2,2
+Columbus Drive,15,4,1,3
+Columbus Drive,16,4,1,1
+Columbus Drive,17,3,2,3
+Columbus Drive,18,4,4,3
+Columbus Drive,19,8,12,8
+Columbus Drive,20,6,3,5
+Columbus Drive,21,5,1,2
+Columbus Drive,22,5,1,1
+Columbus Drive,23,6,2,1
+Columbus Drive,24,6,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,0,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,1,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,2,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,3,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,4,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,5,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,6,10,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,7,9,0,1
+South Waterfront Walkway - Sinatra Dr & 1 St,8,6,1,4
+South Waterfront Walkway - Sinatra Dr & 1 St,9,-1,1,8
+South Waterfront Walkway - Sinatra Dr & 1 St,10,-3,0,2
+South Waterfront Walkway - Sinatra Dr & 1 St,11,-3,1,1
+South Waterfront Walkway - Sinatra Dr & 1 St,12,-1,3,1
+South Waterfront Walkway - Sinatra Dr & 1 St,13,-1,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,14,-1,5,5
+South Waterfront Walkway - Sinatra Dr & 1 St,15,-3,0,2
+South Waterfront Walkway - Sinatra Dr & 1 St,16,2,5,0
+South Waterfront Walkway - Sinatra Dr & 1 St,17,3,3,2
+South Waterfront Walkway - Sinatra Dr & 1 St,18,5,5,3
+South Waterfront Walkway - Sinatra Dr & 1 St,19,5,4,4
+South Waterfront Walkway - Sinatra Dr & 1 St,20,8,4,1
+South Waterfront Walkway - Sinatra Dr & 1 St,21,8,1,1
+South Waterfront Walkway - Sinatra Dr & 1 St,22,8,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,23,8,0,0
+South Waterfront Walkway - Sinatra Dr & 1 St,24,8,0,0
+Oakland Ave,0,10,0,0
+Oakland Ave,1,10,0,0
+Oakland Ave,2,10,0,0
+Oakland Ave,3,10,0,0
+Oakland Ave,4,10,0,0
+Oakland Ave,5,10,0,0
+Oakland Ave,6,10,0,0
+Oakland Ave,7,10,0,0
+Oakland Ave,8,10,0,0
+Oakland Ave,9,11,2,1
+Oakland Ave,10,11,0,0
+Oakland Ave,11,11,0,0
+Oakland Ave,12,11,0,0
+Oakland Ave,13,11,0,0
+Oakland Ave,14,11,0,0
+Oakland Ave,15,11,0,0
+Oakland Ave,16,11,0,0
+Oakland Ave,17,11,0,0
+Oakland Ave,18,11,0,0
+Oakland Ave,19,11,0,0
+Oakland Ave,20,11,0,0
+Oakland Ave,21,11,0,0
+Oakland Ave,22,11,0,0
+Oakland Ave,23,11,0,0
+Oakland Ave,24,11,0,0
+Journal Square,0,10,0,0
+Journal Square,1,11,1,0
+Journal Square,2,11,0,0
+Journal Square,3,11,0,0
+Journal Square,4,11,0,0
+Journal Square,5,10,0,1
+Journal Square,6,10,0,0
+Journal Square,7,10,0,0
+Journal Square,8,10,0,0
+Journal Square,9,8,0,2
+Journal Square,10,8,0,0
+Journal Square,11,8,0,0
+Journal Square,12,8,1,1
+Journal Square,13,8,0,0
+Journal Square,14,11,3,0
+Journal Square,15,9,0,2
+Journal Square,16,9,0,0
+Journal Square,17,9,0,0
+Journal Square,18,10,1,0
+Journal Square,19,11,1,0
+Journal Square,20,11,0,0
+Journal Square,21,10,1,2
+Journal Square,22,11,2,1
+Journal Square,23,11,0,0
+Journal Square,24,11,0,0
+Riverview Park,0,10,0,0
+Riverview Park,1,10,0,0
+Riverview Park,2,10,0,0
+Riverview Park,3,10,0,0
+Riverview Park,4,10,0,0
+Riverview Park,5,10,0,0
+Riverview Park,6,10,0,0
+Riverview Park,7,10,0,0
+Riverview Park,8,11,1,0
+Riverview Park,9,11,0,0
+Riverview Park,10,10,0,1
+Riverview Park,11,10,0,0
+Riverview Park,12,10,0,0
+Riverview Park,13,9,0,1
+Riverview Park,14,10,2,1
+Riverview Park,15,9,1,2
+Riverview Park,16,9,1,1
+Riverview Park,17,11,2,0
+Riverview Park,18,10,0,1
+Riverview Park,19,9,0,1
+Riverview Park,20,9,0,0
+Riverview Park,21,9,0,0
+Riverview Park,22,9,0,0
+Riverview Park,23,9,0,0
+Riverview Park,24,9,0,0
+Hoboken Terminal - River St & Hudson Pl,0,10,0,0
+Hoboken Terminal - River St & Hudson Pl,1,10,0,0
+Hoboken Terminal - River St & Hudson Pl,2,10,0,0
+Hoboken Terminal - River St & Hudson Pl,3,10,0,0
+Hoboken Terminal - River St & Hudson Pl,4,10,0,0
+Hoboken Terminal - River St & Hudson Pl,5,10,0,0
+Hoboken Terminal - River St & Hudson Pl,6,8,0,2
+Hoboken Terminal - River St & Hudson Pl,7,5,0,3
+Hoboken Terminal - River St & Hudson Pl,8,-16,0,21
+Hoboken Terminal - River St & Hudson Pl,9,-30,6,20
+Hoboken Terminal - River St & Hudson Pl,10,-35,3,8
+Hoboken Terminal - River St & Hudson Pl,11,-35,2,2
+Hoboken Terminal - River St & Hudson Pl,12,-37,1,3
+Hoboken Terminal - River St & Hudson Pl,13,-38,1,2
+Hoboken Terminal - River St & Hudson Pl,14,-36,4,2
+Hoboken Terminal - River St & Hudson Pl,15,-31,7,2
+Hoboken Terminal - River St & Hudson Pl,16,-29,7,5
+Hoboken Terminal - River St & Hudson Pl,17,-24,12,7
+Hoboken Terminal - River St & Hudson Pl,18,-7,21,4
+Hoboken Terminal - River St & Hudson Pl,19,9,20,4
+Hoboken Terminal - River St & Hudson Pl,20,8,5,6
+Hoboken Terminal - River St & Hudson Pl,21,9,3,2
+Hoboken Terminal - River St & Hudson Pl,22,9,0,0
+Hoboken Terminal - River St & Hudson Pl,23,9,1,1
+Hoboken Terminal - River St & Hudson Pl,24,9,0,0
+Dey St,0,10,0,0
+Dey St,1,10,0,0
+Dey St,2,10,0,0
+Dey St,3,10,0,0
+Dey St,4,10,0,0
+Dey St,5,11,1,0
+Dey St,6,11,0,0
+Dey St,7,11,0,0
+Dey St,8,11,0,0
+Dey St,9,12,1,0
+Dey St,10,11,0,1
+Dey St,11,12,1,0
+Dey St,12,12,0,0
+Dey St,13,10,0,2
+Dey St,14,8,0,2
+Dey St,15,10,2,0
+Dey St,16,10,0,0
+Dey St,17,11,1,0
+Dey St,18,11,0,0
+Dey St,19,10,0,1
+Dey St,20,10,0,0
+Dey St,21,11,1,0
+Dey St,22,11,0,0
+Dey St,23,11,0,0
+Dey St,24,11,0,0
+Grand St & 14 St,0,10,0,0
+Grand St & 14 St,1,10,0,0
+Grand St & 14 St,2,10,0,0
+Grand St & 14 St,3,10,0,0
+Grand St & 14 St,4,10,0,0
+Grand St & 14 St,5,10,0,0
+Grand St & 14 St,6,10,0,0
+Grand St & 14 St,7,10,1,1
+Grand St & 14 St,8,10,1,1
+Grand St & 14 St,9,9,1,2
+Grand St & 14 St,10,10,2,1
+Grand St & 14 St,11,10,1,1
+Grand St & 14 St,12,9,0,1
+Grand St & 14 St,13,8,0,1
+Grand St & 14 St,14,8,2,2
+Grand St & 14 St,15,8,1,1
+Grand St & 14 St,16,10,2,0
+Grand St & 14 St,17,8,2,4
+Grand St & 14 St,18,7,2,3
+Grand St & 14 St,19,6,3,4
+Grand St & 14 St,20,4,0,2
+Grand St & 14 St,21,5,2,1
+Grand St & 14 St,22,6,1,0
+Grand St & 14 St,23,6,0,0
+Grand St & 14 St,24,5,0,1
+Adams St & 12 St,0,10,0,0
+Adams St & 12 St,1,10,0,0
+Adams St & 12 St,2,10,0,0
+Adams St & 12 St,3,10,0,0
+Adams St & 12 St,4,10,0,0
+Adams St & 12 St,5,10,0,0
+Adams St & 12 St,6,10,0,0
+Adams St & 12 St,7,11,1,0
+Adams St & 12 St,8,11,0,0
+Adams St & 12 St,9,12,2,1
+Adams St & 12 St,10,13,1,0
+Adams St & 12 St,11,13,0,0
+Adams St & 12 St,12,13,0,0
+Adams St & 12 St,13,14,2,1
+Adams St & 12 St,14,13,0,1
+Adams St & 12 St,15,12,0,1
+Adams St & 12 St,16,10,0,2
+Adams St & 12 St,17,10,0,0
+Adams St & 12 St,18,12,2,0
+Adams St & 12 St,19,8,1,5
+Adams St & 12 St,20,8,1,1
+Adams St & 12 St,21,9,2,1
+Adams St & 12 St,22,9,1,1
+Adams St & 12 St,23,9,0,0
+Adams St & 12 St,24,9,1,1
+Clinton St & 7 St,0,10,0,0
+Clinton St & 7 St,1,10,0,0
+Clinton St & 7 St,2,10,0,0
+Clinton St & 7 St,3,9,0,1
+Clinton St & 7 St,4,9,0,0
+Clinton St & 7 St,5,9,0,0
+Clinton St & 7 St,6,9,0,0
+Clinton St & 7 St,7,8,0,1
+Clinton St & 7 St,8,8,1,1
+Clinton St & 7 St,9,8,3,3
+Clinton St & 7 St,10,8,2,2
+Clinton St & 7 St,11,9,1,0
+Clinton St & 7 St,12,11,2,0
+Clinton St & 7 St,13,11,1,1
+Clinton St & 7 St,14,10,1,2
+Clinton St & 7 St,15,9,1,2
+Clinton St & 7 St,16,8,0,1
+Clinton St & 7 St,17,10,2,0
+Clinton St & 7 St,18,9,0,1
+Clinton St & 7 St,19,9,1,1
+Clinton St & 7 St,20,8,2,3
+Clinton St & 7 St,21,7,2,3
+Clinton St & 7 St,22,7,0,0
+Clinton St & 7 St,23,7,1,1
+Clinton St & 7 St,24,7,0,0
+Jersey & 3rd,0,20,0,0
+Jersey & 3rd,1,20,0,0
+Jersey & 3rd,2,20,0,0
+Jersey & 3rd,3,20,0,0
+Jersey & 3rd,4,20,0,0
+Jersey & 3rd,5,20,0,0
+Jersey & 3rd,6,20,0,0
+Jersey & 3rd,7,21,1,0
+Jersey & 3rd,8,24,4,1
+Jersey & 3rd,9,29,5,0
+Jersey & 3rd,10,29,0,0
+Jersey & 3rd,11,29,1,1
+Jersey & 3rd,12,29,0,0
+Jersey & 3rd,13,29,0,0
+Jersey & 3rd,14,26,0,3
+Jersey & 3rd,15,26,0,0
+Jersey & 3rd,16,26,1,1
+Jersey & 3rd,17,25,1,2
+Jersey & 3rd,18,25,1,1
+Jersey & 3rd,19,24,1,2
+Jersey & 3rd,20,23,3,4
+Jersey & 3rd,21,20,0,3
+Jersey & 3rd,22,20,1,1
+Jersey & 3rd,23,20,1,1
+Jersey & 3rd,24,20,0,0
+Church Sq Park - 5 St & Park Ave,0,10,0,0
+Church Sq Park - 5 St & Park Ave,1,10,0,0
+Church Sq Park - 5 St & Park Ave,2,10,0,0
+Church Sq Park - 5 St & Park Ave,3,10,0,0
+Church Sq Park - 5 St & Park Ave,4,10,0,0
+Church Sq Park - 5 St & Park Ave,5,9,0,1
+Church Sq Park - 5 St & Park Ave,6,10,1,0
+Church Sq Park - 5 St & Park Ave,7,11,1,0
+Church Sq Park - 5 St & Park Ave,8,9,1,3
+Church Sq Park - 5 St & Park Ave,9,5,1,5
+Church Sq Park - 5 St & Park Ave,10,7,2,0
+Church Sq Park - 5 St & Park Ave,11,3,1,5
+Church Sq Park - 5 St & Park Ave,12,4,1,0
+Church Sq Park - 5 St & Park Ave,13,2,1,3
+Church Sq Park - 5 St & Park Ave,14,3,2,1
+Church Sq Park - 5 St & Park Ave,15,2,2,3
+Church Sq Park - 5 St & Park Ave,16,2,1,1
+Church Sq Park - 5 St & Park Ave,17,3,3,2
+Church Sq Park - 5 St & Park Ave,18,3,2,2
+Church Sq Park - 5 St & Park Ave,19,8,6,1
+Church Sq Park - 5 St & Park Ave,20,8,2,2
+Church Sq Park - 5 St & Park Ave,21,10,2,0
+Church Sq Park - 5 St & Park Ave,22,10,0,0
+Church Sq Park - 5 St & Park Ave,23,10,0,0
+Church Sq Park - 5 St & Park Ave,24,9,1,2
+Marshall St & 2 St,0,10,0,0
+Marshall St & 2 St,1,10,0,0
+Marshall St & 2 St,2,10,0,0
+Marshall St & 2 St,3,10,0,0
+Marshall St & 2 St,4,10,0,0
+Marshall St & 2 St,5,10,0,0
+Marshall St & 2 St,6,11,1,0
+Marshall St & 2 St,7,10,0,1
+Marshall St & 2 St,8,11,1,0
+Marshall St & 2 St,9,15,4,0
+Marshall St & 2 St,10,15,0,0
+Marshall St & 2 St,11,15,1,1
+Marshall St & 2 St,12,16,1,0
+Marshall St & 2 St,13,16,0,0
+Marshall St & 2 St,14,15,0,1
+Marshall St & 2 St,15,15,1,1
+Marshall St & 2 St,16,16,1,0
+Marshall St & 2 St,17,14,0,2
+Marshall St & 2 St,18,17,3,0
+Marshall St & 2 St,19,11,2,8
+Marshall St & 2 St,20,10,0,1
+Marshall St & 2 St,21,7,0,3
+Marshall St & 2 St,22,7,0,0
+Marshall St & 2 St,23,6,0,1
+Marshall St & 2 St,24,6,0,0
+Pershing Field,0,10,0,0
+Pershing Field,1,10,0,0
+Pershing Field,2,10,0,0
+Pershing Field,3,10,0,0
+Pershing Field,4,10,0,0
+Pershing Field,5,10,0,0
+Pershing Field,6,10,0,0
+Pershing Field,7,10,0,0
+Pershing Field,8,11,1,0
+Pershing Field,9,11,0,0
+Pershing Field,10,11,0,0
+Pershing Field,11,11,0,0
+Pershing Field,12,11,1,1
+Pershing Field,13,11,0,0
+Pershing Field,14,10,0,1
+Pershing Field,15,11,1,0
+Pershing Field,16,11,0,0
+Pershing Field,17,10,0,1
+Pershing Field,18,9,0,1
+Pershing Field,19,10,2,1
+Pershing Field,20,9,0,1
+Pershing Field,21,8,0,1
+Pershing Field,22,7,0,1
+Pershing Field,23,7,0,0
+Pershing Field,24,7,0,0
+Astor Place,0,10,0,0
+Astor Place,1,10,0,0
+Astor Place,2,10,0,0
+Astor Place,3,10,0,0
+Astor Place,4,10,0,0
+Astor Place,5,10,0,0
+Astor Place,6,10,0,0
+Astor Place,7,10,0,0
+Astor Place,8,10,0,0
+Astor Place,9,10,0,0
+Astor Place,10,11,1,0
+Astor Place,11,11,0,0
+Astor Place,12,10,0,1
+Astor Place,13,14,4,0
+Astor Place,14,14,0,0
+Astor Place,15,14,0,0
+Astor Place,16,14,0,0
+Astor Place,17,15,1,0
+Astor Place,18,15,0,0
+Astor Place,19,14,0,1
+Astor Place,20,12,0,2
+Astor Place,21,12,0,0
+Astor Place,22,12,0,0
+Astor Place,23,13,1,0
+Astor Place,24,13,0,0
+Bergen Ave & Stegman St,0,10,0,0
+Bergen Ave & Stegman St,1,10,0,0
+Bergen Ave & Stegman St,2,10,0,0
+Bergen Ave & Stegman St,3,10,0,0
+Bergen Ave & Stegman St,4,10,0,0
+Bergen Ave & Stegman St,5,10,0,0
+Bergen Ave & Stegman St,6,10,0,0
+Bergen Ave & Stegman St,7,10,0,0
+Bergen Ave & Stegman St,8,10,0,0
+Bergen Ave & Stegman St,9,10,0,0
+Bergen Ave & Stegman St,10,10,0,0
+Bergen Ave & Stegman St,11,10,0,0
+Bergen Ave & Stegman St,12,10,0,0
+Bergen Ave & Stegman St,13,10,0,0
+Bergen Ave & Stegman St,14,10,0,0
+Bergen Ave & Stegman St,15,10,0,0
+Bergen Ave & Stegman St,16,10,0,0
+Bergen Ave & Stegman St,17,9,0,1
+Bergen Ave & Stegman St,18,9,0,0
+Bergen Ave & Stegman St,19,9,0,0
+Bergen Ave & Stegman St,20,8,0,1
+Bergen Ave & Stegman St,21,7,0,1
+Bergen Ave & Stegman St,22,7,0,0
+Bergen Ave & Stegman St,23,6,0,1
+Bergen Ave & Stegman St,24,6,0,0
+JC Medical Center,0,10,0,0
+JC Medical Center,1,10,0,0
+JC Medical Center,2,10,0,0
+JC Medical Center,3,10,0,0
+JC Medical Center,4,10,0,0
+JC Medical Center,5,10,0,0
+JC Medical Center,6,10,0,0
+JC Medical Center,7,10,0,0
+JC Medical Center,8,9,0,1
+JC Medical Center,9,10,3,2
+JC Medical Center,10,11,1,0
+JC Medical Center,11,11,0,0
+JC Medical Center,12,12,1,0
+JC Medical Center,13,11,0,1
+JC Medical Center,14,12,1,0
+JC Medical Center,15,12,0,0
+JC Medical Center,16,11,1,2
+JC Medical Center,17,10,0,1
+JC Medical Center,18,7,2,5
+JC Medical Center,19,4,9,12
+JC Medical Center,20,3,2,3
+JC Medical Center,21,2,0,1
+JC Medical Center,22,3,1,0
+JC Medical Center,23,4,1,0
+JC Medical Center,24,4,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,0,10,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,1,10,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,2,10,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,3,10,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,4,10,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,5,10,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,6,8,0,2
+Hoboken Terminal - Hudson St & Hudson Pl,7,6,0,2
+Hoboken Terminal - Hudson St & Hudson Pl,8,7,1,0
+Hoboken Terminal - Hudson St & Hudson Pl,9,9,5,3
+Hoboken Terminal - Hudson St & Hudson Pl,10,7,0,2
+Hoboken Terminal - Hudson St & Hudson Pl,11,6,1,2
+Hoboken Terminal - Hudson St & Hudson Pl,12,6,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,13,3,1,4
+Hoboken Terminal - Hudson St & Hudson Pl,14,4,3,2
+Hoboken Terminal - Hudson St & Hudson Pl,15,4,1,1
+Hoboken Terminal - Hudson St & Hudson Pl,16,4,3,3
+Hoboken Terminal - Hudson St & Hudson Pl,17,9,7,2
+Hoboken Terminal - Hudson St & Hudson Pl,18,13,7,3
+Hoboken Terminal - Hudson St & Hudson Pl,19,12,3,4
+Hoboken Terminal - Hudson St & Hudson Pl,20,15,3,0
+Hoboken Terminal - Hudson St & Hudson Pl,21,15,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,22,15,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,23,15,0,0
+Hoboken Terminal - Hudson St & Hudson Pl,24,15,0,0
+Liberty Light Rail,0,20,0,0
+Liberty Light Rail,1,20,0,0
+Liberty Light Rail,2,20,0,0
+Liberty Light Rail,3,20,0,0
+Liberty Light Rail,4,20,0,0
+Liberty Light Rail,5,20,0,0
+Liberty Light Rail,6,20,0,0
+Liberty Light Rail,7,21,1,0
+Liberty Light Rail,8,26,6,1
+Liberty Light Rail,9,32,8,2
+Liberty Light Rail,10,32,1,1
+Liberty Light Rail,11,32,0,0
+Liberty Light Rail,12,32,0,0
+Liberty Light Rail,13,32,0,0
+Liberty Light Rail,14,32,0,0
+Liberty Light Rail,15,31,0,1
+Liberty Light Rail,16,29,0,2
+Liberty Light Rail,17,30,3,2
+Liberty Light Rail,18,27,1,4
+Liberty Light Rail,19,23,2,6
+Liberty Light Rail,20,19,4,8
+Liberty Light Rail,21,20,2,1
+Liberty Light Rail,22,20,0,0
+Liberty Light Rail,23,20,0,0
+Liberty Light Rail,24,18,0,2
+Madison St & 10 St,0,10,0,0
+Madison St & 10 St,1,10,0,0
+Madison St & 10 St,2,10,0,0
+Madison St & 10 St,3,10,0,0
+Madison St & 10 St,4,10,0,0
+Madison St & 10 St,5,10,0,0
+Madison St & 10 St,6,10,0,0
+Madison St & 10 St,7,10,1,1
+Madison St & 10 St,8,12,3,1
+Madison St & 10 St,9,12,2,2
+Madison St & 10 St,10,11,0,1
+Madison St & 10 St,11,10,1,2
+Madison St & 10 St,12,10,0,0
+Madison St & 10 St,13,11,1,0
+Madison St & 10 St,14,13,2,0
+Madison St & 10 St,15,16,4,1
+Madison St & 10 St,16,14,1,3
+Madison St & 10 St,17,17,4,1
+Madison St & 10 St,18,16,1,2
+Madison St & 10 St,19,16,2,2
+Madison St & 10 St,20,16,0,0
+Madison St & 10 St,21,16,0,0
+Madison St & 10 St,22,16,2,2
+Madison St & 10 St,23,15,0,1
+Madison St & 10 St,24,15,0,0
+Harborside,0,10,0,0
+Harborside,1,10,0,0
+Harborside,2,10,0,0
+Harborside,3,10,0,0
+Harborside,4,10,0,0
+Harborside,5,10,0,0
+Harborside,6,11,1,0
+Harborside,7,10,0,1
+Harborside,8,11,1,0
+Harborside,9,9,1,3
+Harborside,10,4,1,6
+Harborside,11,5,1,0
+Harborside,12,4,0,1
+Harborside,13,5,1,0
+Harborside,14,7,2,0
+Harborside,15,6,0,1
+Harborside,16,7,1,0
+Harborside,17,7,1,1
+Harborside,18,17,12,2
+Harborside,19,18,8,7
+Harborside,20,17,2,3
+Harborside,21,17,0,0
+Harborside,22,17,0,0
+Harborside,23,17,1,1
+Harborside,24,17,0,0
+14 St Ferry - 14 St & Shipyard Ln,0,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,1,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,2,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,3,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,4,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,5,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,6,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,7,11,1,0
+14 St Ferry - 14 St & Shipyard Ln,8,8,1,4
+14 St Ferry - 14 St & Shipyard Ln,9,10,4,2
+14 St Ferry - 14 St & Shipyard Ln,10,11,2,1
+14 St Ferry - 14 St & Shipyard Ln,11,10,0,1
+14 St Ferry - 14 St & Shipyard Ln,12,12,3,1
+14 St Ferry - 14 St & Shipyard Ln,13,13,1,0
+14 St Ferry - 14 St & Shipyard Ln,14,14,1,0
+14 St Ferry - 14 St & Shipyard Ln,15,13,0,1
+14 St Ferry - 14 St & Shipyard Ln,16,14,2,1
+14 St Ferry - 14 St & Shipyard Ln,17,17,3,0
+14 St Ferry - 14 St & Shipyard Ln,18,15,2,4
+14 St Ferry - 14 St & Shipyard Ln,19,16,4,3
+14 St Ferry - 14 St & Shipyard Ln,20,13,0,3
+14 St Ferry - 14 St & Shipyard Ln,21,13,1,1
+14 St Ferry - 14 St & Shipyard Ln,22,10,0,3
+14 St Ferry - 14 St & Shipyard Ln,23,10,0,0
+14 St Ferry - 14 St & Shipyard Ln,24,10,0,0
+Mama Johnson Field - 4 St & Jackson St,0,10,0,0
+Mama Johnson Field - 4 St & Jackson St,1,10,0,0
+Mama Johnson Field - 4 St & Jackson St,2,10,0,0
+Mama Johnson Field - 4 St & Jackson St,3,10,0,0
+Mama Johnson Field - 4 St & Jackson St,4,10,0,0
+Mama Johnson Field - 4 St & Jackson St,5,10,0,0
+Mama Johnson Field - 4 St & Jackson St,6,10,0,0
+Mama Johnson Field - 4 St & Jackson St,7,11,1,0
+Mama Johnson Field - 4 St & Jackson St,8,12,1,0
+Mama Johnson Field - 4 St & Jackson St,9,13,1,0
+Mama Johnson Field - 4 St & Jackson St,10,14,1,0
+Mama Johnson Field - 4 St & Jackson St,11,15,1,0
+Mama Johnson Field - 4 St & Jackson St,12,15,0,0
+Mama Johnson Field - 4 St & Jackson St,13,14,0,1
+Mama Johnson Field - 4 St & Jackson St,14,14,0,0
+Mama Johnson Field - 4 St & Jackson St,15,14,1,1
+Mama Johnson Field - 4 St & Jackson St,16,13,0,1
+Mama Johnson Field - 4 St & Jackson St,17,12,0,1
+Mama Johnson Field - 4 St & Jackson St,18,10,0,2
+Mama Johnson Field - 4 St & Jackson St,19,11,1,0
+Mama Johnson Field - 4 St & Jackson St,20,11,0,0
+Mama Johnson Field - 4 St & Jackson St,21,11,0,0
+Mama Johnson Field - 4 St & Jackson St,22,11,0,0
+Mama Johnson Field - 4 St & Jackson St,23,11,0,0
+Mama Johnson Field - 4 St & Jackson St,24,11,0,0
+Madison St & 1 St,0,20,0,0
+Madison St & 1 St,1,20,0,0
+Madison St & 1 St,2,20,0,0
+Madison St & 1 St,3,20,0,0
+Madison St & 1 St,4,20,0,0
+Madison St & 1 St,5,20,0,0
+Madison St & 1 St,6,22,2,0
+Madison St & 1 St,7,25,3,0
+Madison St & 1 St,8,37,12,0
+Madison St & 1 St,9,37,2,2
+Madison St & 1 St,10,37,0,0
+Madison St & 1 St,11,37,0,0
+Madison St & 1 St,12,37,0,0
+Madison St & 1 St,13,37,0,0
+Madison St & 1 St,14,36,0,1
+Madison St & 1 St,15,35,0,1
+Madison St & 1 St,16,35,1,1
+Madison St & 1 St,17,35,1,1
+Madison St & 1 St,18,28,0,7
+Madison St & 1 St,19,25,1,4
+Madison St & 1 St,20,25,1,1
+Madison St & 1 St,21,24,2,3
+Madison St & 1 St,22,23,0,1
+Madison St & 1 St,23,23,0,0
+Madison St & 1 St,24,22,0,1
+Fairmount Ave,0,10,0,0
+Fairmount Ave,1,10,0,0
+Fairmount Ave,2,10,0,0
+Fairmount Ave,3,10,0,0
+Fairmount Ave,4,10,0,0
+Fairmount Ave,5,11,1,0
+Fairmount Ave,6,11,0,0
+Fairmount Ave,7,12,1,0
+Fairmount Ave,8,14,2,0
+Fairmount Ave,9,13,0,1
+Fairmount Ave,10,13,0,0
+Fairmount Ave,11,13,0,0
+Fairmount Ave,12,15,2,0
+Fairmount Ave,13,15,0,0
+Fairmount Ave,14,15,0,0
+Fairmount Ave,15,15,0,0
+Fairmount Ave,16,14,0,1
+Fairmount Ave,17,14,0,0
+Fairmount Ave,18,15,1,0
+Fairmount Ave,19,13,0,2
+Fairmount Ave,20,13,0,0
+Fairmount Ave,21,13,0,0
+Fairmount Ave,22,12,0,1
+Fairmount Ave,23,10,0,2
+Fairmount Ave,24,10,0,0
+Bergen Ave & Sip Ave,0,10,0,0
+Bergen Ave & Sip Ave,1,10,0,0
+Bergen Ave & Sip Ave,2,10,0,0
+Bergen Ave & Sip Ave,3,10,0,0
+Bergen Ave & Sip Ave,4,10,0,0
+Bergen Ave & Sip Ave,5,9,0,1
+Bergen Ave & Sip Ave,6,8,0,1
+Bergen Ave & Sip Ave,7,7,0,1
+Bergen Ave & Sip Ave,8,4,0,3
+Bergen Ave & Sip Ave,9,5,1,0
+Bergen Ave & Sip Ave,10,5,0,0
+Bergen Ave & Sip Ave,11,5,0,0
+Bergen Ave & Sip Ave,12,4,1,2
+Bergen Ave & Sip Ave,13,4,2,2
+Bergen Ave & Sip Ave,14,5,1,0
+Bergen Ave & Sip Ave,15,6,2,1
+Bergen Ave & Sip Ave,16,10,4,0
+Bergen Ave & Sip Ave,17,10,1,1
+Bergen Ave & Sip Ave,18,9,0,1
+Bergen Ave & Sip Ave,19,10,1,0
+Bergen Ave & Sip Ave,20,10,0,0
+Bergen Ave & Sip Ave,21,10,0,0
+Bergen Ave & Sip Ave,22,10,2,2
+Bergen Ave & Sip Ave,23,10,0,0
+Bergen Ave & Sip Ave,24,10,0,0
+Warren St,0,10,0,0
+Warren St,1,10,0,0
+Warren St,2,10,0,0
+Warren St,3,10,0,0
+Warren St,4,10,0,0
+Warren St,5,10,0,0
+Warren St,6,10,0,0
+Warren St,7,9,0,1
+Warren St,8,9,2,2
+Warren St,9,11,5,3
+Warren St,10,11,1,1
+Warren St,11,10,0,1
+Warren St,12,10,1,1
+Warren St,13,8,2,4
+Warren St,14,10,2,0
+Warren St,15,10,1,1
+Warren St,16,10,1,1
+Warren St,17,9,1,2
+Warren St,18,8,3,4
+Warren St,19,5,5,8
+Warren St,20,11,8,2
+Warren St,21,13,2,0
+Warren St,22,16,3,0
+Warren St,23,16,0,0
+Warren St,24,16,0,0
+Grand St,0,10,0,0
+Grand St,1,10,0,0
+Grand St,2,10,0,0
+Grand St,3,10,0,0
+Grand St,4,10,0,0
+Grand St,5,10,0,0
+Grand St,6,11,1,0
+Grand St,7,12,1,0
+Grand St,8,12,1,1
+Grand St,9,11,1,2
+Grand St,10,9,1,3
+Grand St,11,10,1,0
+Grand St,12,11,2,1
+Grand St,13,7,2,6
+Grand St,14,7,1,1
+Grand St,15,8,1,0
+Grand St,16,8,2,2
+Grand St,17,11,4,1
+Grand St,18,8,3,6
+Grand St,19,12,6,2
+Grand St,20,11,3,4
+Grand St,21,12,1,0
+Grand St,22,11,0,1
+Grand St,23,11,0,0
+Grand St,24,11,0,0
+Jackson Square,0,10,0,0
+Jackson Square,1,10,0,0
+Jackson Square,2,10,0,0
+Jackson Square,3,10,0,0
+Jackson Square,4,10,0,0
+Jackson Square,5,10,0,0
+Jackson Square,6,10,0,0
+Jackson Square,7,10,0,0
+Jackson Square,8,11,1,0
+Jackson Square,9,11,0,0
+Jackson Square,10,11,0,0
+Jackson Square,11,11,0,0
+Jackson Square,12,10,0,1
+Jackson Square,13,10,0,0
+Jackson Square,14,10,0,0
+Jackson Square,15,10,0,0
+Jackson Square,16,11,1,0
+Jackson Square,17,11,0,0
+Jackson Square,18,11,0,0
+Jackson Square,19,11,0,0
+Jackson Square,20,11,0,0
+Jackson Square,21,12,1,0
+Jackson Square,22,12,0,0
+Jackson Square,23,12,0,0
+Jackson Square,24,12,0,0
+Christ Hospital,0,10,0,0
+Christ Hospital,1,10,0,0
+Christ Hospital,2,10,0,0
+Christ Hospital,3,10,0,0
+Christ Hospital,4,10,0,0
+Christ Hospital,5,10,0,0
+Christ Hospital,6,10,0,0
+Christ Hospital,7,10,0,0
+Christ Hospital,8,10,0,0
+Christ Hospital,9,10,0,0
+Christ Hospital,10,10,0,0
+Christ Hospital,11,9,0,1
+Christ Hospital,12,9,0,0
+Christ Hospital,13,9,0,0
+Christ Hospital,14,9,0,0
+Christ Hospital,15,9,0,0
+Christ Hospital,16,10,1,0
+Christ Hospital,17,10,0,0
+Christ Hospital,18,10,0,0
+Christ Hospital,19,10,0,0
+Christ Hospital,20,10,0,0
+Christ Hospital,21,9,0,1
+Christ Hospital,22,9,0,0
+Christ Hospital,23,8,0,1
+Christ Hospital,24,8,0,0
+2 St & Park Ave,0,10,0,0
+2 St & Park Ave,1,10,0,0
+2 St & Park Ave,2,10,0,0
+2 St & Park Ave,3,10,0,0
+2 St & Park Ave,4,10,0,0
+2 St & Park Ave,5,10,0,0
+2 St & Park Ave,6,10,0,0
+2 St & Park Ave,7,10,0,0
+2 St & Park Ave,8,10,0,0
+2 St & Park Ave,9,5,1,6
+2 St & Park Ave,10,5,2,2
+2 St & Park Ave,11,4,1,2
+2 St & Park Ave,12,5,1,0
+2 St & Park Ave,13,4,0,1
+2 St & Park Ave,14,5,2,1
+2 St & Park Ave,15,4,0,1
+2 St & Park Ave,16,5,2,1
+2 St & Park Ave,17,6,1,0
+2 St & Park Ave,18,9,5,2
+2 St & Park Ave,19,7,3,5
+2 St & Park Ave,20,5,0,2
+2 St & Park Ave,21,7,2,0
+2 St & Park Ave,22,5,0,2
+2 St & Park Ave,23,7,2,0
+2 St & Park Ave,24,10,3,0
+Clinton St & Newark St,0,10,0,0
+Clinton St & Newark St,1,10,0,0
+Clinton St & Newark St,2,10,0,0
+Clinton St & Newark St,3,10,0,0
+Clinton St & Newark St,4,10,0,0
+Clinton St & Newark St,5,9,0,1
+Clinton St & Newark St,6,8,0,1
+Clinton St & Newark St,7,11,3,0
+Clinton St & Newark St,8,12,2,1
+Clinton St & Newark St,9,11,4,5
+Clinton St & Newark St,10,11,1,1
+Clinton St & Newark St,11,11,1,1
+Clinton St & Newark St,12,11,0,0
+Clinton St & Newark St,13,12,2,1
+Clinton St & Newark St,14,12,1,1
+Clinton St & Newark St,15,13,2,1
+Clinton St & Newark St,16,12,0,1
+Clinton St & Newark St,17,9,1,4
+Clinton St & Newark St,18,9,2,2
+Clinton St & Newark St,19,7,2,4
+Clinton St & Newark St,20,6,2,3
+Clinton St & Newark St,21,5,1,2
+Clinton St & Newark St,22,5,1,1
+Clinton St & Newark St,23,5,0,0
+Clinton St & Newark St,24,6,1,0
+York St & Marin Blvd,0,10,0,0
+York St & Marin Blvd,1,10,0,0
+York St & Marin Blvd,2,10,0,0
+York St & Marin Blvd,3,10,0,0
+York St & Marin Blvd,4,10,0,0
+York St & Marin Blvd,5,10,0,0
+York St & Marin Blvd,6,10,0,0
+York St & Marin Blvd,7,10,0,0
+York St & Marin Blvd,8,9,0,1
+York St & Marin Blvd,9,9,0,0
+York St & Marin Blvd,10,7,0,2
+York St & Marin Blvd,11,7,0,0
+York St & Marin Blvd,12,7,0,0
+York St & Marin Blvd,13,8,1,0
+York St & Marin Blvd,14,8,0,0
+York St & Marin Blvd,15,8,0,0
+York St & Marin Blvd,16,8,0,0
+York St & Marin Blvd,17,8,0,0
+York St & Marin Blvd,18,6,1,3
+York St & Marin Blvd,19,4,1,3
+York St & Marin Blvd,20,4,0,0
+York St & Marin Blvd,21,5,2,1
+York St & Marin Blvd,22,6,1,0
+York St & Marin Blvd,23,5,0,1
+York St & Marin Blvd,24,6,1,0
+Van Vorst Park,0,20,0,0
+Van Vorst Park,1,20,0,0
+Van Vorst Park,2,20,0,0
+Van Vorst Park,3,20,0,0
+Van Vorst Park,4,20,0,0
+Van Vorst Park,5,20,0,0
+Van Vorst Park,6,20,0,0
+Van Vorst Park,7,21,1,0
+Van Vorst Park,8,22,1,0
+Van Vorst Park,9,25,4,1
+Van Vorst Park,10,26,3,2
+Van Vorst Park,11,27,1,0
+Van Vorst Park,12,28,2,1
+Van Vorst Park,13,29,2,1
+Van Vorst Park,14,28,0,1
+Van Vorst Park,15,29,1,0
+Van Vorst Park,16,30,3,2
+Van Vorst Park,17,27,0,3
+Van Vorst Park,18,25,0,2
+Van Vorst Park,19,19,1,7
+Van Vorst Park,20,17,6,8
+Van Vorst Park,21,16,1,2
+Van Vorst Park,22,16,2,2
+Van Vorst Park,23,14,0,2
+Van Vorst Park,24,15,1,0
+Newport PATH,0,10,0,0
+Newport PATH,1,10,0,0
+Newport PATH,2,10,0,0
+Newport PATH,3,10,0,0
+Newport PATH,4,10,0,0
+Newport PATH,5,10,0,0
+Newport PATH,6,9,0,1
+Newport PATH,7,7,1,3
+Newport PATH,8,3,3,7
+Newport PATH,9,4,5,4
+Newport PATH,10,3,2,3
+Newport PATH,11,2,1,2
+Newport PATH,12,2,1,1
+Newport PATH,13,2,2,2
+Newport PATH,14,1,1,2
+Newport PATH,15,3,2,0
+Newport PATH,16,7,6,2
+Newport PATH,17,6,4,5
+Newport PATH,18,10,14,10
+Newport PATH,19,10,9,9
+Newport PATH,20,10,3,3
+Newport PATH,21,10,0,0
+Newport PATH,22,10,1,1
+Newport PATH,23,10,0,0
+Newport PATH,24,10,0,0
+Grove St PATH,0,10,0,0
+Grove St PATH,1,10,0,0
+Grove St PATH,2,10,0,0
+Grove St PATH,3,10,0,0
+Grove St PATH,4,10,0,0
+Grove St PATH,5,9,0,1
+Grove St PATH,6,7,1,3
+Grove St PATH,7,2,1,6
+Grove St PATH,8,-14,1,17
+Grove St PATH,9,-44,3,33
+Grove St PATH,10,-45,1,2
+Grove St PATH,11,-50,2,7
+Grove St PATH,12,-54,2,6
+Grove St PATH,13,-54,2,2
+Grove St PATH,14,-56,4,6
+Grove St PATH,15,-55,1,0
+Grove St PATH,16,-53,2,0
+Grove St PATH,17,-51,5,3
+Grove St PATH,18,-31,27,7
+Grove St PATH,19,-17,33,19
+Grove St PATH,20,-14,20,17
+Grove St PATH,21,-8,8,2
+Grove St PATH,22,-8,4,4
+Grove St PATH,23,-7,2,1
+Grove St PATH,24,-7,0,0
+Marin Light Rail,0,20,0,0
+Marin Light Rail,1,20,0,0
+Marin Light Rail,2,21,1,0
+Marin Light Rail,3,21,0,0
+Marin Light Rail,4,21,0,0
+Marin Light Rail,5,21,0,0
+Marin Light Rail,6,22,1,0
+Marin Light Rail,7,23,1,0
+Marin Light Rail,8,28,5,0
+Marin Light Rail,9,32,5,1
+Marin Light Rail,10,32,2,2
+Marin Light Rail,11,33,2,1
+Marin Light Rail,12,33,1,1
+Marin Light Rail,13,36,3,0
+Marin Light Rail,14,34,0,2
+Marin Light Rail,15,34,0,0
+Marin Light Rail,16,32,0,2
+Marin Light Rail,17,28,1,5
+Marin Light Rail,18,23,6,11
+Marin Light Rail,19,31,19,11
+Marin Light Rail,20,34,11,8
+Marin Light Rail,21,30,1,5
+Marin Light Rail,22,28,3,5
+Marin Light Rail,23,29,2,1
+Marin Light Rail,24,29,0,0
+7 St & Monroe St,0,10,0,0
+7 St & Monroe St,1,10,0,0
+7 St & Monroe St,2,10,0,0
+7 St & Monroe St,3,10,0,0
+7 St & Monroe St,4,10,0,0
+7 St & Monroe St,5,11,1,0
+7 St & Monroe St,6,11,0,0
+7 St & Monroe St,7,10,0,1
+7 St & Monroe St,8,11,1,0
+7 St & Monroe St,9,12,4,3
+7 St & Monroe St,10,14,2,0
+7 St & Monroe St,11,18,4,0
+7 St & Monroe St,12,16,1,3
+7 St & Monroe St,13,18,2,0
+7 St & Monroe St,14,18,0,0
+7 St & Monroe St,15,17,1,2
+7 St & Monroe St,16,16,0,1
+7 St & Monroe St,17,17,1,0
+7 St & Monroe St,18,14,1,4
+7 St & Monroe St,19,13,1,2
+7 St & Monroe St,20,11,1,3
+7 St & Monroe St,21,10,1,2
+7 St & Monroe St,22,11,2,1
+7 St & Monroe St,23,11,0,0
+7 St & Monroe St,24,11,0,0
+Brunswick St,0,20,0,0
+Brunswick St,1,20,0,0
+Brunswick St,2,20,0,0
+Brunswick St,3,20,0,0
+Brunswick St,4,20,0,0
+Brunswick St,5,20,0,0
+Brunswick St,6,19,0,1
+Brunswick St,7,20,1,0
+Brunswick St,8,21,1,0
+Brunswick St,9,30,11,2
+Brunswick St,10,33,4,1
+Brunswick St,11,35,2,0
+Brunswick St,12,35,0,0
+Brunswick St,13,34,0,1
+Brunswick St,14,34,0,0
+Brunswick St,15,33,0,1
+Brunswick St,16,33,1,1
+Brunswick St,17,35,2,0
+Brunswick St,18,32,0,3
+Brunswick St,19,29,0,3
+Brunswick St,20,29,2,2
+Brunswick St,21,27,0,2
+Brunswick St,22,26,0,1
+Brunswick St,23,25,0,1
+Brunswick St,24,25,0,0
+Bergen Ave,0,10,0,0
+Bergen Ave,1,10,0,0
+Bergen Ave,2,10,0,0
+Bergen Ave,3,10,0,0
+Bergen Ave,4,10,0,0
+Bergen Ave,5,10,0,0
+Bergen Ave,6,10,0,0
+Bergen Ave,7,10,0,0
+Bergen Ave,8,10,0,0
+Bergen Ave,9,11,1,0
+Bergen Ave,10,12,1,0
+Bergen Ave,11,12,0,0
+Bergen Ave,12,12,0,0
+Bergen Ave,13,12,0,0
+Bergen Ave,14,12,0,0
+Bergen Ave,15,12,1,1
+Bergen Ave,16,12,0,0
+Bergen Ave,17,12,0,0
+Bergen Ave,18,12,0,0
+Bergen Ave,19,12,0,0
+Bergen Ave,20,12,0,0
+Bergen Ave,21,11,0,1
+Bergen Ave,22,10,0,1
+Bergen Ave,23,10,0,0
+Bergen Ave,24,10,0,0
+Leonard Gordon Park,0,10,0,0
+Leonard Gordon Park,1,10,0,0
+Leonard Gordon Park,2,10,0,0
+Leonard Gordon Park,3,10,0,0
+Leonard Gordon Park,4,10,0,0
+Leonard Gordon Park,5,10,0,0
+Leonard Gordon Park,6,10,0,0
+Leonard Gordon Park,7,10,0,0
+Leonard Gordon Park,8,10,0,0
+Leonard Gordon Park,9,10,0,0
+Leonard Gordon Park,10,10,0,0
+Leonard Gordon Park,11,10,0,0
+Leonard Gordon Park,12,10,0,0
+Leonard Gordon Park,13,10,0,0
+Leonard Gordon Park,14,10,0,0
+Leonard Gordon Park,15,9,0,1
+Leonard Gordon Park,16,11,2,0
+Leonard Gordon Park,17,11,0,0
+Leonard Gordon Park,18,11,0,0
+Leonard Gordon Park,19,11,0,0
+Leonard Gordon Park,20,11,0,0
+Leonard Gordon Park,21,11,0,0
+Leonard Gordon Park,22,11,0,0
+Leonard Gordon Park,23,10,0,1
+Leonard Gordon Park,24,10,0,0
+Glenwood Ave,0,10,0,0
+Glenwood Ave,1,10,0,0
+Glenwood Ave,2,8,0,2
+Glenwood Ave,3,8,0,0
+Glenwood Ave,4,8,0,0
+Glenwood Ave,5,8,0,0
+Glenwood Ave,6,9,1,0
+Glenwood Ave,7,9,0,0
+Glenwood Ave,8,9,0,0
+Glenwood Ave,9,10,1,0
+Glenwood Ave,10,10,0,0
+Glenwood Ave,11,10,0,0
+Glenwood Ave,12,10,0,0
+Glenwood Ave,13,10,0,0
+Glenwood Ave,14,10,0,0
+Glenwood Ave,15,10,0,0
+Glenwood Ave,16,9,0,1
+Glenwood Ave,17,9,0,0
+Glenwood Ave,18,9,0,0
+Glenwood Ave,19,9,0,0
+Glenwood Ave,20,9,0,0
+Glenwood Ave,21,9,0,0
+Glenwood Ave,22,8,0,1
+Glenwood Ave,23,8,0,0
+Glenwood Ave,24,8,0,0
+Hilltop,0,10,0,0
+Hilltop,1,10,0,0
+Hilltop,2,10,0,0
+Hilltop,3,10,0,0
+Hilltop,4,10,0,0
+Hilltop,5,10,0,0
+Hilltop,6,10,0,0
+Hilltop,7,10,0,0
+Hilltop,8,10,0,0
+Hilltop,9,9,0,1
+Hilltop,10,9,0,0
+Hilltop,11,9,0,0
+Hilltop,12,9,1,1
+Hilltop,13,9,0,0
+Hilltop,14,9,0,0
+Hilltop,15,10,1,0
+Hilltop,16,10,1,1
+Hilltop,17,10,1,1
+Hilltop,18,11,1,0
+Hilltop,19,11,0,0
+Hilltop,20,11,0,0
+Hilltop,21,11,0,0
+Hilltop,22,11,0,0
+Hilltop,23,11,0,0
+Hilltop,24,11,0,0
+Newark Ave,0,10,0,0
+Newark Ave,1,10,0,0
+Newark Ave,2,10,0,0
+Newark Ave,3,10,0,0
+Newark Ave,4,10,0,0
+Newark Ave,5,10,0,0
+Newark Ave,6,10,0,0
+Newark Ave,7,10,0,0
+Newark Ave,8,10,0,0
+Newark Ave,9,9,2,3
+Newark Ave,10,9,1,1
+Newark Ave,11,9,0,0
+Newark Ave,12,8,1,2
+Newark Ave,13,8,2,2
+Newark Ave,14,8,0,0
+Newark Ave,15,10,3,1
+Newark Ave,16,7,2,5
+Newark Ave,17,6,2,3
+Newark Ave,18,4,2,4
+Newark Ave,19,6,5,3
+Newark Ave,20,7,1,0
+Newark Ave,21,9,4,2
+Newark Ave,22,8,0,1
+Newark Ave,23,8,0,0
+Newark Ave,24,7,0,1
+Columbus Park - Clinton St & 9 St,0,10,0,0
+Columbus Park - Clinton St & 9 St,1,10,0,0
+Columbus Park - Clinton St & 9 St,2,10,0,0
+Columbus Park - Clinton St & 9 St,3,10,0,0
+Columbus Park - Clinton St & 9 St,4,10,0,0
+Columbus Park - Clinton St & 9 St,5,10,0,0
+Columbus Park - Clinton St & 9 St,6,10,0,0
+Columbus Park - Clinton St & 9 St,7,10,1,1
+Columbus Park - Clinton St & 9 St,8,9,1,2
+Columbus Park - Clinton St & 9 St,9,8,3,4
+Columbus Park - Clinton St & 9 St,10,9,3,2
+Columbus Park - Clinton St & 9 St,11,12,3,0
+Columbus Park - Clinton St & 9 St,12,14,3,1
+Columbus Park - Clinton St & 9 St,13,15,1,0
+Columbus Park - Clinton St & 9 St,14,13,0,2
+Columbus Park - Clinton St & 9 St,15,13,2,2
+Columbus Park - Clinton St & 9 St,16,14,1,0
+Columbus Park - Clinton St & 9 St,17,11,0,3
+Columbus Park - Clinton St & 9 St,18,13,3,1
+Columbus Park - Clinton St & 9 St,19,11,2,4
+Columbus Park - Clinton St & 9 St,20,10,0,1
+Columbus Park - Clinton St & 9 St,21,8,0,2
+Columbus Park - Clinton St & 9 St,22,8,0,0
+Columbus Park - Clinton St & 9 St,23,8,0,0
+Columbus Park - Clinton St & 9 St,24,7,0,1
+Baldwin at Montgomery,0,10,0,0
+Baldwin at Montgomery,1,10,0,0
+Baldwin at Montgomery,2,10,0,0
+Baldwin at Montgomery,3,10,0,0
+Baldwin at Montgomery,4,10,0,0
+Baldwin at Montgomery,5,10,0,0
+Baldwin at Montgomery,6,10,0,0
+Baldwin at Montgomery,7,10,0,0
+Baldwin at Montgomery,8,10,0,0
+Baldwin at Montgomery,9,12,2,0
+Baldwin at Montgomery,10,12,0,0
+Baldwin at Montgomery,11,12,0,0
+Baldwin at Montgomery,12,12,0,0
+Baldwin at Montgomery,13,12,0,0
+Baldwin at Montgomery,14,12,0,0
+Baldwin at Montgomery,15,13,1,0
+Baldwin at Montgomery,16,13,0,0
+Baldwin at Montgomery,17,16,3,0
+Baldwin at Montgomery,18,15,0,1
+Baldwin at Montgomery,19,15,0,0
+Baldwin at Montgomery,20,15,0,0
+Baldwin at Montgomery,21,15,0,0
+Baldwin at Montgomery,22,15,0,0
+Baldwin at Montgomery,23,15,0,0
+Baldwin at Montgomery,24,15,0,0
+5 Corners Library,0,10,0,0
+5 Corners Library,1,10,0,0
+5 Corners Library,2,10,0,0
+5 Corners Library,3,10,0,0
+5 Corners Library,4,10,0,0
+5 Corners Library,5,10,0,0
+5 Corners Library,6,10,0,0
+5 Corners Library,7,10,0,0
+5 Corners Library,8,10,0,0
+5 Corners Library,9,10,0,0
+5 Corners Library,10,9,0,1
+5 Corners Library,11,9,0,0
+5 Corners Library,12,9,0,0
+5 Corners Library,13,9,0,0
+5 Corners Library,14,9,0,0
+5 Corners Library,15,9,0,0
+5 Corners Library,16,10,1,0
+5 Corners Library,17,10,0,0
+5 Corners Library,18,10,0,0
+5 Corners Library,19,10,0,0
+5 Corners Library,20,10,0,0
+5 Corners Library,21,11,1,0
+5 Corners Library,22,11,0,0
+5 Corners Library,23,11,0,0
+5 Corners Library,24,11,0,0
+Paulus Hook,0,10,0,0
+Paulus Hook,1,10,0,0
+Paulus Hook,2,10,0,0
+Paulus Hook,3,10,0,0
+Paulus Hook,4,10,0,0
+Paulus Hook,5,10,0,0
+Paulus Hook,6,10,0,0
+Paulus Hook,7,10,0,0
+Paulus Hook,8,6,0,4
+Paulus Hook,9,5,1,2
+Paulus Hook,10,5,1,1
+Paulus Hook,11,4,0,1
+Paulus Hook,12,4,0,0
+Paulus Hook,13,5,1,0
+Paulus Hook,14,5,1,1
+Paulus Hook,15,8,3,0
+Paulus Hook,16,8,0,0
+Paulus Hook,17,8,0,0
+Paulus Hook,18,11,3,0
+Paulus Hook,19,10,0,1
+Paulus Hook,20,11,2,1
+Paulus Hook,21,10,0,1
+Paulus Hook,22,11,1,0
+Paulus Hook,23,11,0,0
+Paulus Hook,24,11,0,0
+Heights Elevator,0,10,0,0
+Heights Elevator,1,10,0,0
+Heights Elevator,2,10,0,0
+Heights Elevator,3,10,0,0
+Heights Elevator,4,10,0,0
+Heights Elevator,5,10,0,0
+Heights Elevator,6,10,0,0
+Heights Elevator,7,10,0,0
+Heights Elevator,8,11,1,0
+Heights Elevator,9,12,1,0
+Heights Elevator,10,11,0,1
+Heights Elevator,11,11,0,0
+Heights Elevator,12,11,0,0
+Heights Elevator,13,11,0,0
+Heights Elevator,14,11,0,0
+Heights Elevator,15,11,0,0
+Heights Elevator,16,11,0,0
+Heights Elevator,17,11,0,0
+Heights Elevator,18,11,0,0
+Heights Elevator,19,12,1,0
+Heights Elevator,20,13,1,0
+Heights Elevator,21,13,0,0
+Heights Elevator,22,12,0,1
+Heights Elevator,23,13,1,0
+Heights Elevator,24,13,0,0
+Montgomery St,0,10,0,0
+Montgomery St,1,10,0,0
+Montgomery St,2,10,0,0
+Montgomery St,3,10,0,0
+Montgomery St,4,10,0,0
+Montgomery St,5,10,0,0
+Montgomery St,6,10,0,0
+Montgomery St,7,11,1,0
+Montgomery St,8,10,0,1
+Montgomery St,9,11,1,0
+Montgomery St,10,11,0,0
+Montgomery St,11,12,1,0
+Montgomery St,12,12,2,2
+Montgomery St,13,9,0,3
+Montgomery St,14,10,2,1
+Montgomery St,15,8,0,2
+Montgomery St,16,9,1,0
+Montgomery St,17,9,0,0
+Montgomery St,18,13,5,1
+Montgomery St,19,12,1,2
+Montgomery St,20,13,2,1
+Montgomery St,21,13,0,0
+Montgomery St,22,13,0,0
+Montgomery St,23,12,0,1
+Montgomery St,24,12,0,0
+8 St & Washington St,0,20,0,0
+8 St & Washington St,1,20,0,0
+8 St & Washington St,2,20,0,0
+8 St & Washington St,3,20,0,0
+8 St & Washington St,4,20,0,0
+8 St & Washington St,5,20,0,0
+8 St & Washington St,6,20,0,0
+8 St & Washington St,7,20,0,0
+8 St & Washington St,8,25,6,1
+8 St & Washington St,9,31,6,0
+8 St & Washington St,10,31,1,1
+8 St & Washington St,11,28,1,4
+8 St & Washington St,12,26,1,3
+8 St & Washington St,13,28,3,1
+8 St & Washington St,14,27,1,2
+8 St & Washington St,15,26,0,1
+8 St & Washington St,16,27,3,2
+8 St & Washington St,17,28,2,1
+8 St & Washington St,18,28,1,1
+8 St & Washington St,19,27,2,3
+8 St & Washington St,20,23,0,4
+8 St & Washington St,21,25,3,1
+8 St & Washington St,22,25,0,0
+8 St & Washington St,23,26,1,0
+8 St & Washington St,24,25,0,1
+Dixon Mills,0,20,0,0
+Dixon Mills,1,20,0,0
+Dixon Mills,2,20,0,0
+Dixon Mills,3,20,0,0
+Dixon Mills,4,20,0,0
+Dixon Mills,5,21,1,0
+Dixon Mills,6,22,1,0
+Dixon Mills,7,22,0,0
+Dixon Mills,8,27,6,1
+Dixon Mills,9,30,5,2
+Dixon Mills,10,31,2,1
+Dixon Mills,11,31,0,0
+Dixon Mills,12,31,0,0
+Dixon Mills,13,31,0,0
+Dixon Mills,14,32,1,0
+Dixon Mills,15,32,0,0
+Dixon Mills,16,32,0,0
+Dixon Mills,17,30,1,3
+Dixon Mills,18,26,3,7
+Dixon Mills,19,22,1,5
+Dixon Mills,20,20,1,3
+Dixon Mills,21,22,2,0
+Dixon Mills,22,19,0,3
+Dixon Mills,23,19,1,1
+Dixon Mills,24,19,0,0
+11 St & Washington St,0,10,0,0
+11 St & Washington St,1,10,0,0
+11 St & Washington St,2,10,0,0
+11 St & Washington St,3,10,0,0
+11 St & Washington St,4,10,0,0
+11 St & Washington St,5,10,0,0
+11 St & Washington St,6,10,0,0
+11 St & Washington St,7,12,2,0
+11 St & Washington St,8,12,1,1
+11 St & Washington St,9,12,1,1
+11 St & Washington St,10,12,1,1
+11 St & Washington St,11,12,1,1
+11 St & Washington St,12,12,1,1
+11 St & Washington St,13,10,2,4
+11 St & Washington St,14,9,0,1
+11 St & Washington St,15,10,1,0
+11 St & Washington St,16,8,1,3
+11 St & Washington St,17,10,4,2
+11 St & Washington St,18,8,3,5
+11 St & Washington St,19,6,0,2
+11 St & Washington St,20,8,3,1
+11 St & Washington St,21,8,1,1
+11 St & Washington St,22,8,0,0
+11 St & Washington St,23,8,0,0
+11 St & Washington St,24,8,0,0
+4 St & River St,0,10,0,0
+4 St & River St,1,10,0,0
+4 St & River St,2,10,0,0
+4 St & River St,3,10,0,0
+4 St & River St,4,10,0,0
+4 St & River St,5,10,0,0
+4 St & River St,6,11,1,0
+4 St & River St,7,12,2,1
+4 St & River St,8,14,2,0
+4 St & River St,9,11,1,4
+4 St & River St,10,10,0,1
+4 St & River St,11,9,0,1
+4 St & River St,12,10,1,0
+4 St & River St,13,9,0,1
+4 St & River St,14,11,2,0
+4 St & River St,15,13,2,0
+4 St & River St,16,12,3,4
+4 St & River St,17,11,3,4
+4 St & River St,18,12,4,3
+4 St & River St,19,13,4,3
+4 St & River St,20,10,3,6
+4 St & River St,21,10,1,1
+4 St & River St,22,14,4,0
+4 St & River St,23,14,0,0
+4 St & River St,24,14,0,0
+Lincoln Park,0,10,0,0
+Lincoln Park,1,10,0,0
+Lincoln Park,2,10,0,0
+Lincoln Park,3,10,0,0
+Lincoln Park,4,10,0,0
+Lincoln Park,5,10,0,0
+Lincoln Park,6,10,0,0
+Lincoln Park,7,10,0,0
+Lincoln Park,8,10,0,0
+Lincoln Park,9,11,3,2
+Lincoln Park,10,11,0,0
+Lincoln Park,11,11,0,0
+Lincoln Park,12,11,0,0
+Lincoln Park,13,10,0,1
+Lincoln Park,14,10,0,0
+Lincoln Park,15,10,0,0
+Lincoln Park,16,9,0,1
+Lincoln Park,17,9,0,0
+Lincoln Park,18,10,1,0
+Lincoln Park,19,9,0,1
+Lincoln Park,20,9,0,0
+Lincoln Park,21,9,0,0
+Lincoln Park,22,9,0,0
+Lincoln Park,23,9,0,0
+Lincoln Park,24,9,0,0
+W 15 St & 10 Ave,0,10,0,0
+W 15 St & 10 Ave,1,10,0,0
+W 15 St & 10 Ave,2,10,0,0
+W 15 St & 10 Ave,3,10,0,0
+W 15 St & 10 Ave,4,10,0,0
+W 15 St & 10 Ave,5,10,0,0
+W 15 St & 10 Ave,6,10,0,0
+W 15 St & 10 Ave,7,10,0,0
+W 15 St & 10 Ave,8,10,0,0
+W 15 St & 10 Ave,9,10,0,0
+W 15 St & 10 Ave,10,10,0,0
+W 15 St & 10 Ave,11,9,0,1
+W 15 St & 10 Ave,12,9,0,0
+W 15 St & 10 Ave,13,9,0,0
+W 15 St & 10 Ave,14,9,0,0
+W 15 St & 10 Ave,15,9,0,0
+W 15 St & 10 Ave,16,9,0,0
+W 15 St & 10 Ave,17,9,0,0
+W 15 St & 10 Ave,18,9,0,0
+W 15 St & 10 Ave,19,9,0,0
+W 15 St & 10 Ave,20,9,0,0
+W 15 St & 10 Ave,21,9,0,0
+W 15 St & 10 Ave,22,9,0,0
+W 15 St & 10 Ave,23,9,0,0
+W 15 St & 10 Ave,24,9,0,0
+Union St,0,10,0,0
+Union St,1,10,0,0
+Union St,2,10,0,0
+Union St,3,10,0,0
+Union St,4,10,0,0
+Union St,5,10,0,0
+Union St,6,10,0,0
+Union St,7,10,0,0
+Union St,8,10,0,0
+Union St,9,10,0,0
+Union St,10,11,1,0
+Union St,11,11,0,0
+Union St,12,11,0,0
+Union St,13,11,0,0
+Union St,14,11,0,0
+Union St,15,10,0,1
+Union St,16,10,0,0
+Union St,17,10,0,0
+Union St,18,10,0,0
+Union St,19,10,0,0
+Union St,20,10,0,0
+Union St,21,10,0,0
+Union St,22,10,0,0
+Union St,23,10,0,0
+Union St,24,10,0,0
+River Ter & Warren St,0,10,0,0
+River Ter & Warren St,1,10,0,0
+River Ter & Warren St,2,10,0,0
+River Ter & Warren St,3,10,0,0
+River Ter & Warren St,4,10,0,0
+River Ter & Warren St,5,10,0,0
+River Ter & Warren St,6,10,0,0
+River Ter & Warren St,7,10,0,0
+River Ter & Warren St,8,10,0,0
+River Ter & Warren St,9,9,0,1
+River Ter & Warren St,10,9,0,0
+River Ter & Warren St,11,9,0,0
+River Ter & Warren St,12,9,0,0
+River Ter & Warren St,13,9,0,0
+River Ter & Warren St,14,9,0,0
+River Ter & Warren St,15,9,0,0
+River Ter & Warren St,16,9,0,0
+River Ter & Warren St,17,9,0,0
+River Ter & Warren St,18,9,0,0
+River Ter & Warren St,19,9,0,0
+River Ter & Warren St,20,9,0,0
+River Ter & Warren St,21,9,0,0
+River Ter & Warren St,22,9,0,0
+River Ter & Warren St,23,9,0,0
+River Ter & Warren St,24,9,0,0
+Willow Ave & 12 St,0,10,0,0
+Willow Ave & 12 St,1,10,0,0
+Willow Ave & 12 St,2,10,0,0
+Willow Ave & 12 St,3,10,0,0
+Willow Ave & 12 St,4,10,0,0
+Willow Ave & 12 St,5,10,0,0
+Willow Ave & 12 St,6,10,0,0
+Willow Ave & 12 St,7,10,0,0
+Willow Ave & 12 St,8,12,3,1
+Willow Ave & 12 St,9,14,4,2
+Willow Ave & 12 St,10,16,2,0
+Willow Ave & 12 St,11,14,0,2
+Willow Ave & 12 St,12,15,1,0
+Willow Ave & 12 St,13,16,1,0
+Willow Ave & 12 St,14,16,1,1
+Willow Ave & 12 St,15,17,1,0
+Willow Ave & 12 St,16,18,1,0
+Willow Ave & 12 St,17,18,1,1
+Willow Ave & 12 St,18,18,1,1
+Willow Ave & 12 St,19,16,2,4
+Willow Ave & 12 St,20,17,2,1
+Willow Ave & 12 St,21,16,0,1
+Willow Ave & 12 St,22,15,0,1
+Willow Ave & 12 St,23,15,0,0
+Willow Ave & 12 St,24,15,0,0
+Southwest Park - Jackson St & Observer Hwy,0,10,0,0
+Southwest Park - Jackson St & Observer Hwy,1,10,0,0
+Southwest Park - Jackson St & Observer Hwy,2,10,0,0
+Southwest Park - Jackson St & Observer Hwy,3,10,0,0
+Southwest Park - Jackson St & Observer Hwy,4,10,0,0
+Southwest Park - Jackson St & Observer Hwy,5,10,0,0
+Southwest Park - Jackson St & Observer Hwy,6,9,0,1
+Southwest Park - Jackson St & Observer Hwy,7,9,0,0
+Southwest Park - Jackson St & Observer Hwy,8,17,8,0
+Southwest Park - Jackson St & Observer Hwy,9,18,2,1
+Southwest Park - Jackson St & Observer Hwy,10,18,0,0
+Southwest Park - Jackson St & Observer Hwy,11,17,0,1
+Southwest Park - Jackson St & Observer Hwy,12,18,1,0
+Southwest Park - Jackson St & Observer Hwy,13,18,0,0
+Southwest Park - Jackson St & Observer Hwy,14,18,0,0
+Southwest Park - Jackson St & Observer Hwy,15,18,1,1
+Southwest Park - Jackson St & Observer Hwy,16,18,0,0
+Southwest Park - Jackson St & Observer Hwy,17,18,0,0
+Southwest Park - Jackson St & Observer Hwy,18,15,0,3
+Southwest Park - Jackson St & Observer Hwy,19,14,2,3
+Southwest Park - Jackson St & Observer Hwy,20,16,2,0
+Southwest Park - Jackson St & Observer Hwy,21,13,0,3
+Southwest Park - Jackson St & Observer Hwy,22,12,0,1
+Southwest Park - Jackson St & Observer Hwy,23,12,0,0
+Southwest Park - Jackson St & Observer Hwy,24,12,0,0
+4 St & Grand St,0,10,0,0
+4 St & Grand St,1,10,0,0
+4 St & Grand St,2,10,0,0
+4 St & Grand St,3,10,0,0
+4 St & Grand St,4,10,0,0
+4 St & Grand St,5,11,1,0
+4 St & Grand St,6,12,1,0
+4 St & Grand St,7,12,1,1
+4 St & Grand St,8,12,1,1
+4 St & Grand St,9,12,1,1
+4 St & Grand St,10,11,0,1
+4 St & Grand St,11,11,1,1
+4 St & Grand St,12,10,1,2
+4 St & Grand St,13,9,0,1
+4 St & Grand St,14,9,0,0
+4 St & Grand St,15,7,0,2
+4 St & Grand St,16,8,2,1
+4 St & Grand St,17,8,0,0
+4 St & Grand St,18,9,3,2
+4 St & Grand St,19,7,1,3
+4 St & Grand St,20,4,0,3
+4 St & Grand St,21,3,0,1
+4 St & Grand St,22,3,0,0
+4 St & Grand St,23,4,1,0
+4 St & Grand St,24,4,0,0
+Monmouth and 6th,0,10,0,0
+Monmouth and 6th,1,10,0,0
+Monmouth and 6th,2,10,0,0
+Monmouth and 6th,3,10,0,0
+Monmouth and 6th,4,10,0,0
+Monmouth and 6th,5,10,0,0
+Monmouth and 6th,6,10,0,0
+Monmouth and 6th,7,10,0,0
+Monmouth and 6th,8,14,4,0
+Monmouth and 6th,9,16,2,0
+Monmouth and 6th,10,15,0,1
+Monmouth and 6th,11,15,1,1
+Monmouth and 6th,12,16,1,0
+Monmouth and 6th,13,16,0,0
+Monmouth and 6th,14,16,0,0
+Monmouth and 6th,15,16,0,0
+Monmouth and 6th,16,15,0,1
+Monmouth and 6th,17,15,0,0
+Monmouth and 6th,18,14,1,2
+Monmouth and 6th,19,9,1,6
+Monmouth and 6th,20,7,0,2
+Monmouth and 6th,21,6,0,1
+Monmouth and 6th,22,5,0,1
+Monmouth and 6th,23,5,0,0
+Monmouth and 6th,24,5,0,0
+Lafayette Park,0,10,0,0
+Lafayette Park,1,10,0,0
+Lafayette Park,2,10,0,0
+Lafayette Park,3,10,0,0
+Lafayette Park,4,10,0,0
+Lafayette Park,5,10,0,0
+Lafayette Park,6,10,0,0
+Lafayette Park,7,10,0,0
+Lafayette Park,8,10,0,0
+Lafayette Park,9,11,1,0
+Lafayette Park,10,12,1,0
+Lafayette Park,11,12,0,0
+Lafayette Park,12,12,0,0
+Lafayette Park,13,11,0,1
+Lafayette Park,14,12,1,0
+Lafayette Park,15,12,0,0
+Lafayette Park,16,12,0,0
+Lafayette Park,17,12,0,0
+Lafayette Park,18,10,0,2
+Lafayette Park,19,5,1,6
+Lafayette Park,20,5,0,0
+Lafayette Park,21,5,0,0
+Lafayette Park,22,5,0,0
+Lafayette Park,23,5,0,0
+Lafayette Park,24,5,0,0
+River St & 1 St,0,10,0,0
+River St & 1 St,1,10,0,0
+River St & 1 St,2,10,0,0
+River St & 1 St,3,11,1,0
+River St & 1 St,4,11,0,0
+River St & 1 St,5,11,0,0
+River St & 1 St,6,10,0,1
+River St & 1 St,7,8,0,2
+River St & 1 St,8,3,0,5
+River St & 1 St,9,3,6,6
+River St & 1 St,10,1,1,3
+River St & 1 St,11,4,3,0
+River St & 1 St,12,4,2,2
+River St & 1 St,13,5,1,0
+River St & 1 St,14,7,2,0
+River St & 1 St,15,7,0,0
+River St & 1 St,16,5,0,2
+River St & 1 St,17,-1,0,6
+River St & 1 St,18,1,2,0
+River St & 1 St,19,11,10,0
+River St & 1 St,20,11,5,5
+River St & 1 St,21,13,2,0
+River St & 1 St,22,13,1,1
+River St & 1 St,23,13,0,0
+River St & 1 St,24,13,0,0
+12 St & Sinatra Dr N,0,20,0,0
+12 St & Sinatra Dr N,1,20,0,0
+12 St & Sinatra Dr N,2,20,0,0
+12 St & Sinatra Dr N,3,20,0,0
+12 St & Sinatra Dr N,4,20,0,0
+12 St & Sinatra Dr N,5,20,0,0
+12 St & Sinatra Dr N,6,20,0,0
+12 St & Sinatra Dr N,7,20,0,0
+12 St & Sinatra Dr N,8,22,2,0
+12 St & Sinatra Dr N,9,27,5,0
+12 St & Sinatra Dr N,10,27,1,1
+12 St & Sinatra Dr N,11,27,0,0
+12 St & Sinatra Dr N,12,28,1,0
+12 St & Sinatra Dr N,13,30,3,1
+12 St & Sinatra Dr N,14,27,0,3
+12 St & Sinatra Dr N,15,26,0,1
+12 St & Sinatra Dr N,16,23,0,3
+12 St & Sinatra Dr N,17,21,0,2
+12 St & Sinatra Dr N,18,20,0,1
+12 St & Sinatra Dr N,19,20,3,3
+12 St & Sinatra Dr N,20,20,1,1
+12 St & Sinatra Dr N,21,21,1,0
+12 St & Sinatra Dr N,22,22,1,0
+12 St & Sinatra Dr N,23,22,0,0
+12 St & Sinatra Dr N,24,22,0,0
+City Hall,0,10,0,0
+City Hall,1,10,0,0
+City Hall,2,10,0,0
+City Hall,3,10,0,0
+City Hall,4,10,0,0
+City Hall,5,10,0,0
+City Hall,6,10,0,0
+City Hall,7,10,0,0
+City Hall,8,13,3,0
+City Hall,9,8,0,5
+City Hall,10,10,3,1
+City Hall,11,9,0,1
+City Hall,12,13,4,0
+City Hall,13,11,1,3
+City Hall,14,14,3,0
+City Hall,15,14,1,1
+City Hall,16,13,0,1
+City Hall,17,15,2,0
+City Hall,18,12,1,4
+City Hall,19,10,1,3
+City Hall,20,14,6,2
+City Hall,21,13,0,1
+City Hall,22,12,0,1
+City Hall,23,15,3,0
+City Hall,24,15,0,0
+Essex Light Rail,0,10,0,0
+Essex Light Rail,1,10,0,0
+Essex Light Rail,2,10,0,0
+Essex Light Rail,3,10,0,0
+Essex Light Rail,4,10,0,0
+Essex Light Rail,5,10,0,0
+Essex Light Rail,6,10,0,0
+Essex Light Rail,7,10,0,0
+Essex Light Rail,8,11,1,0
+Essex Light Rail,9,13,2,0
+Essex Light Rail,10,12,0,1
+Essex Light Rail,11,11,0,1
+Essex Light Rail,12,11,0,0
+Essex Light Rail,13,11,0,0
+Essex Light Rail,14,11,0,0
+Essex Light Rail,15,10,0,1
+Essex Light Rail,16,10,1,1
+Essex Light Rail,17,12,2,0
+Essex Light Rail,18,9,1,4
+Essex Light Rail,19,13,4,0
+Essex Light Rail,20,13,0,0
+Essex Light Rail,21,13,0,0
+Essex Light Rail,22,13,0,0
+Essex Light Rail,23,10,0,3
+Essex Light Rail,24,10,0,0
