@@ -1,7 +1,7 @@
 from generate_synthetic_data import euclidean_distance
 import json
 import random
-import params
+import params_size_500 as params  # Import the parameters from the params file. Change this to the appropriate params file for your simulation.
 import time
 
 random.seed(params.my_seed)
@@ -10,9 +10,22 @@ class MAS:
     def __init__(self, trajectories):
         self.trajectories = trajectories
         self.agents = [key for key in trajectories.keys()]
+        print("Generating distance graphs...")
         self.distance_graphs = [self.generate_distance_graph(tau) for tau in range(params.setting["horizon"])]
-        self.communication_graphs = [self.generate_communication_graph(tau) for tau in range(params.setting["horizon"])]
-        self.sensing_graphs = [self.generate_sensing_graph(tau) for tau in range(params.setting["horizon"])]
+        # Generate topology.
+        print("Constructing topology...")
+        topology = []
+        n = len(self.agents)
+        half = n // 2
+        for i in self.agents:
+            for j in self.agents:
+                if i != j and ((i < half and j < half) or (i >= half and j >= half)):
+                    topology.append((i, j))
+        print("Generating communication and sensing graphs...")
+        communication_graph = self.generate_communication_graph(topology)
+        self.communication_graphs = [communication_graph for _ in range(params.setting["horizon"])]
+        print("Generating sensing graphs...")
+        self.sensing_graphs = [self.generate_sensing_graph(tau, topology) for tau in range(params.setting["horizon"])]
     
     def generate_distance_graph(self, tau):
         # Generate a graph of distances between all pairs of points.
@@ -23,23 +36,19 @@ class MAS:
                     distance_graph[(i, j)] = euclidean_distance(self.trajectories[i][tau], self.trajectories[j][tau])
         return distance_graph
 
-    def generate_communication_graph(self, tau):
+    def generate_communication_graph(self, topology):
         # Generate a graph of communication between all pairs of points.
         communication_graph = {}
-        for i in self.agents:
-            for j in self.agents:
-                if (i, j) in [(0, 1), (2, 3), (1, 0), (3, 2)]:
-                    communication_graph[(i, j)] = 1
+        for (i, j) in topology:
+            communication_graph[(i, j)] = 1
         return communication_graph
 
-    def generate_sensing_graph(self, tau):
+    def generate_sensing_graph(self, tau, topology):
         # Generate a graph of sensing between all pairs of points.
         sensing_graph = {}
-        for i in self.agents:
-            for j in self.agents:
-                if (i, j) in [(0, 1), (2, 3), (1, 0), (3, 2)]:
-                    if self.distance_graphs[tau][(i, j)] <= params.sensing_threshold:
-                        sensing_graph[(i, j)] = 1
+        for (i, j) in topology:
+            if self.distance_graphs[tau][(i, j)] <= params.sensing_threshold:
+                sensing_graph[(i, j)] = 1
         return sensing_graph
 
 
@@ -58,7 +67,7 @@ def monitor_varphi_3(mas, ego_agent, current_time, global_range = 2, safe_range 
             if agent != ego_agent:
                 if mas.distance_graphs[tau][(ego_agent, agent)] >= safe_range:
                     neighbors += 1
-        if neighbors == 3:
+        if neighbors == len(mas.agents) - 1:
             inner_monitoring_results[tau] = True
         else:
             inner_monitoring_results[tau] = False
@@ -77,7 +86,7 @@ def monitor_varphi_4(mas, ego_agent, current_time, eventually_range = 2):
             if agent != ego_agent:
                 if (ego_agent, agent) in mas.sensing_graphs[tau]:
                     neighbors += 1
-        if neighbors >= 1 and neighbors <= 3:
+        if neighbors >= 1 and neighbors <= len(mas.agents) - 1:
             inner_sensing_monitoring_results[tau] = True
         else:
             inner_sensing_monitoring_results[tau] = False
@@ -89,7 +98,7 @@ def monitor_varphi_4(mas, ego_agent, current_time, eventually_range = 2):
             if agent != ego_agent:
                 if (ego_agent, agent) in mas.communication_graphs[tau]:
                     neighbors += 1
-        if neighbors >= 1 and neighbors <= 3:
+        if neighbors >= 1 and neighbors <= len(mas.agents) - 1:
             inner_communication_monitoring_results[tau] = True
         else:
             inner_communication_monitoring_results[tau] = False
@@ -113,7 +122,7 @@ def monitor_phi_3(mas, current_time, global_range = 2, safe_range = 3):
                 if agent != ego_agent:
                     if mas.distance_graphs[tau][(ego_agent, agent)] >= safe_range:
                         neighbors += 1
-            if neighbors == 3:
+            if neighbors == len(mas.agents) - 1:
                 inner_monitoring_results[ego_agent][tau] = True
             else:
                 inner_monitoring_results[ego_agent][tau] = False
@@ -182,12 +191,14 @@ def monitor_phi_4(mas, current_time, ego_agent, global_range = 2):
 
 
 if __name__ == '__main__':
-    # Load the simulation data.
-    with open("simulation_data.json", "r") as f:
+    # Load the simulation data. # Change the file here to reflect the simulation data you want to use.
+    with open("simulation_data_size_500.json", "r") as f:
         data = json.load(f)
+    print("Loading data...")
     map, trajectories = data["map_info"], data["drone_trajectories"]
     # Convert all keys in trajectories to intgers.
     trajectories = {int(key): trajectories[key] for key in trajectories.keys()}
+    print("Constructing MAS...")
     mas = MAS(trajectories)
     monitoring_range = 80
     ego_agent = 0
@@ -201,6 +212,7 @@ if __name__ == '__main__':
     monitoring_time_phi_3 = []
     monitoring_results_phi_4 = []
     monitoring_time_phi_4 = []
+    print("Monitoring specifications...")
     for t in range(monitoring_range + 1):
         varphi_3_time = time.perf_counter()
         monitoring_results_varphi_3.append(monitor_varphi_3(mas, ego_agent, t))
@@ -239,3 +251,21 @@ if __name__ == '__main__':
     print("average time for phi 4 (ms):")
     print(sum(monitoring_time_phi_4) / len(monitoring_time_phi_4))
     print()
+
+    # Save the results.
+    with open("monitoring_results_size_500.txt", "w") as f: # Change the file name to reflect the size of the simulation.
+        f.write("results for varphi 3:\n")
+        f.write(str(report_true_false_indices(monitoring_results_varphi_3)) + "\n")
+        f.write("average time for varphi 3 (ms): " + str(sum(monitoring_time_varphi_3) / len(monitoring_time_varphi_3)) + "\n\n")
+
+        f.write("results for varphi 4:\n")
+        f.write(str(report_true_false_indices(monitoring_results_varphi_4)) + "\n")
+        f.write("average time for varphi 4 (ms): " + str(sum(monitoring_time_varphi_4) / len(monitoring_time_varphi_4)) + "\n\n")
+
+        f.write("results for phi 3:\n")
+        f.write(str(report_true_false_indices(monitoring_results_phi_3)) + "\n")
+        f.write("average time for phi 3 (ms): " + str(sum(monitoring_time_phi_3) / len(monitoring_time_phi_3)) + "\n\n")
+
+        f.write("results for phi 4:\n")
+        f.write(str(report_true_false_indices(monitoring_results_phi_4)) + "\n")
+        f.write("average time for phi 4 (ms): " + str(sum(monitoring_time_phi_4) / len(monitoring_time_phi_4)) + "\n\n")

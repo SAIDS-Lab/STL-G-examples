@@ -1,6 +1,6 @@
 import numpy as np
 import random
-import params
+import params_size_500 as params  # Adjust the import based on your params file for different monitoring setting.
 import math
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
@@ -175,14 +175,28 @@ def animate_wildfire(map_info, drone_trajectories):
         distance_texts.append(text)
 
     communication_lines, communication_texts = [], []
-    for (i, j) in [(0, 1), (2, 3)]:
+    communication_topology = []
+    n = len(drone_trajectories)
+    half = n // 2
+    for i in range(n):
+        for j in range(n):
+            if (i != j and ((i < half and j < half) or (i >= half and j >= half))) and (j, i) not in communication_topology:
+                communication_topology.append((i, j))
+    for (i, j) in communication_topology:
         line, = ax_d_left.plot([], [], "-", color="blue", lw=1.5, zorder=2)
         communication_lines.append(line)
         text = ax_d_left.text(0, 0, '1', color="blue", fontsize=10)
         communication_texts.append(text)
 
     sensing_lines, sensing_texts = [], []
-    for (i, j) in [(0, 1), (2, 3)]:
+    sensing_topology = []
+    n = len(drone_trajectories)
+    half = n // 2
+    for i in range(n):
+        for j in range(n):
+            if (i != j and ((i < half and j < half) or (i >= half and j >= half))) and (j, i) not in sensing_topology:
+                sensing_topology.append((i, j))
+    for (i, j) in sensing_topology:
         line, = ax_d_right.plot([], [], "-", color="green", lw=1.5, zorder=2)
         sensing_lines.append(line)
         text = ax_d_right.text(0, 0, '1', color="green", fontsize=10)
@@ -209,13 +223,13 @@ def animate_wildfire(map_info, drone_trajectories):
                 text.set_position(((loc_i[1] + loc_j[1]) / 2, (loc_i[0] + loc_j[0]) / 2))
                 text.set_text(f"{distance:.2f}")
 
-        for (i, j), line, text in zip([(0, 1), (2, 3)], communication_lines, communication_texts):
+        for (i, j), line, text in zip(communication_topology, communication_lines, communication_texts):
             loc_i, loc_j = drone_trajectories[i][frame], drone_trajectories[j][frame]
             if isinstance(loc_i, tuple) and isinstance(loc_j, tuple):
                 line.set_data([loc_i[1], loc_j[1]], [loc_i[0], loc_j[0]])
                 text.set_position(((loc_i[1] + loc_j[1]) / 2, (loc_i[0] + loc_j[0]) / 2))
 
-        for (i, j), line, text in zip([(0, 1), (2, 3)], sensing_lines, sensing_texts):
+        for (i, j), line, text in zip(sensing_topology, sensing_lines, sensing_texts):
             loc_i, loc_j = drone_trajectories[i][frame], drone_trajectories[j][frame]
             if isinstance(loc_i, tuple) and isinstance(loc_j, tuple):
                 distance = euclidean_distance(loc_i, loc_j)
@@ -236,7 +250,7 @@ def animate_wildfire(map_info, drone_trajectories):
     fig.legend(handles=handles, loc="center right", title="Drones", title_fontsize='14', fontsize='12')
 
     ani = animation.FuncAnimation(fig, update, frames=len(map_info), interval=200, blit=False)
-    ani.save("wildfire_simulation.gif", writer="pillow", fps=5)
+    ani.save("wildfire_simulation_size_500.gif", writer="pillow", fps=5) # Change the filename as needed
 
 map_info, drone_trajectories = simulate_wildfire()
 
@@ -247,6 +261,6 @@ save_data = True
 if save_data:
     float_trajectories = {k: [[float(x) for x in loc] for loc in v] for k, v in drone_trajectories.items()}
     float_map_info = [map_info[i].tolist() for i in range(len(map_info))]
-    with open("simulation_data.json", "w") as f:
+    with open("simulation_data_size_500.json", "w") as f:
         json.dump({"map_info": float_map_info, "drone_trajectories": float_trajectories}, f)
 
